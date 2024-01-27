@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "date": "5/16/2023",
+    "showroom": "Douglas, O'Hara and Olson",
+    "type": "jcb",
+    "remark": "Nondisp segmental fx shaft of ulna, right arm, sequela",
+    "amount": "$9209.38",
+    "username": "Cherie Bett"
+  },
+  {
+    "id": 2,
+    "date": "2/13/2023",
+    "showroom": "Mueller and Sons",
+    "type": "visa",
+    "remark": "Puncture wound with foreign body of right hand, subs encntr",
+    "amount": "$990.20",
+    "username": "Gonzales Aickin"
+  },
+  {
+    "id": 3,
+    "date": "5/24/2023",
+    "showroom": "McLaughlin LLC",
+    "type": "jcb",
+    "remark": "Unspecified injury of left Achilles tendon",
+    "amount": "$4196.67",
+    "username": "Andria Chrstine"
+  },
+  {
+    "id": 4,
+    "date": "11/29/2023",
+    "showroom": "Turcotte-Cummings",
+    "type": "mastercard",
+    "remark": "External constriction of part of breast, right breast, init",
+    "amount": "$7276.50",
+    "username": "Dennis Cattrell"
+  },
+  {
+    "id": 5,
+    "date": "10/20/2023",
+    "showroom": "Cole-Borer",
+    "type": "jcb",
+    "remark": "Driver of hv veh injured in collision w hv veh nontraf, subs",
+    "amount": "$6641.12",
+    "username": "Ardene Solesbury"
+  },
+  {
+    "id": 6,
+    "date": "7/15/2023",
+    "showroom": "Witting, Waelchi and Balistreri",
+    "type": "diners-club-us-ca",
+    "remark": "Disp fx of head of l rad, 7thF",
+    "amount": "$8010.16",
+    "username": "Wilmar Udden"
+  },
+  {
+    "id": 7,
+    "date": "6/23/2023",
+    "showroom": "Dooley Inc",
+    "type": "visa",
+    "remark": "Nondisp spiral fx shaft of l femr, 7thE",
+    "amount": "$2039.90",
+    "username": "Greggory Forestel"
+  },
+  {
+    "id": 8,
+    "date": "5/4/2023",
+    "showroom": "Herman LLC",
+    "type": "jcb",
+    "remark": "Asymptomatic varicose veins of left lower extremity",
+    "amount": "$8109.80",
+    "username": "Frasquito Truse"
+  },
+  {
+    "id": 9,
+    "date": "5/9/2023",
+    "showroom": "Crona-Mills",
+    "type": "jcb",
+    "remark": "Open bite of trachea, sequela",
+    "amount": "$7671.45",
+    "username": "Augustine Noteyoung"
+  },
+  {
+    "id": 10,
+    "date": "10/23/2023",
+    "showroom": "Spinka-Olson",
+    "type": "jcb",
+    "remark": "Fall from chair, initial encounter",
+    "amount": "$5716.50",
+    "username": "Ruthie Arnaudon"
+  },
+  {
+    "id": 11,
+    "date": "4/15/2023",
+    "showroom": "Jacobs, Ankunding and Kirlin",
+    "type": "visa",
+    "remark": "Unsp open wound of unspecified toe(s) without damage to nail",
+    "amount": "$866.97",
+    "username": "Karlens MacVean"
+  },
+  {
+    "id": 12,
+    "date": "1/19/2024",
+    "showroom": "Balistreri, Orn and Dicki",
+    "type": "jcb",
+    "remark": "Nondisp fx of nk of 5th MC bone, r hand, 7thP",
+    "amount": "$1392.17",
+    "username": "Bettye Levane"
+  },
+  {
+    "id": 13,
+    "date": "6/13/2023",
+    "showroom": "Ankunding and Sons",
+    "type": "maestro",
+    "remark": "Breakdown (mechanical) of int fix of vertebrae",
+    "amount": "$1088.28",
+    "username": "Merrel Aickin"
+  },
+  {
+    "id": 14,
+    "date": "5/28/2023",
+    "showroom": "McClure, Gulgowski and O'Connell",
+    "type": "jcb",
+    "remark": "Unsp fx shaft of unsp tibia, 7thH",
+    "amount": "$1909.05",
+    "username": "Brigg Blockey"
+  },
+  {
+    "id": 15,
+    "date": "6/1/2023",
+    "showroom": "Connelly LLC",
+    "type": "visa-electron",
+    "remark": "Burn of second degree of right hand, unsp site, subs encntr",
+    "amount": "$6166.32",
+    "username": "Aimee Pim"
+  },
+  {
+    "id": 16,
+    "date": "4/5/2023",
+    "showroom": "Mosciski-Champlin",
+    "type": "mastercard",
+    "remark": "Osteopetrosis",
+    "amount": "$9716.64",
+    "username": "Lizabeth Ferns"
+  },
+  {
+    "id": 17,
+    "date": "10/31/2023",
+    "showroom": "Schaden, Marks and Leuschke",
+    "type": "diners-club-international",
+    "remark": "Fracture of skull and facial bones",
+    "amount": "$3819.95",
+    "username": "Lonni Greguol"
+  },
+  {
+    "id": 18,
+    "date": "5/16/2023",
+    "showroom": "Ortiz-Rau",
+    "type": "switch",
+    "remark": "Nondisplaced intertrochanteric fracture of left femur",
+    "amount": "$3752.95",
+    "username": "Damon Etuck"
+  },
+  {
+    "id": 19,
+    "date": "2/19/2023",
+    "showroom": "Wilderman-Fisher",
+    "type": "jcb",
+    "remark": "Pedestrian injured in traf involving military vehicle",
+    "amount": "$5858.68",
+    "username": "Silvain Pavelin"
+  },
+  {
+    "id": 20,
+    "date": "11/17/2023",
+    "showroom": "Mante, MacGyver and Heller",
+    "type": "china-unionpay",
+    "remark": "Pnctr w foreign body of pharynx and cervical esophagus, init",
+    "amount": "$4983.39",
+    "username": "Kathleen Rushby"
+  },
+  {
+    "id": 21,
+    "date": "1/8/2024",
+    "showroom": "Funk, Rippin and Rosenbaum",
+    "type": "mastercard",
+    "remark": "Aminoglycosides",
+    "amount": "$885.98",
+    "username": "Neall Houson"
+  },
+  {
+    "id": 22,
+    "date": "2/5/2023",
+    "showroom": "Brekke, Kunde and Mosciski",
+    "type": "jcb",
+    "remark": "Congenital viral hepatitis",
+    "amount": "$4295.01",
+    "username": "Daphne Lipp"
+  },
+  {
+    "id": 23,
+    "date": "1/28/2023",
+    "showroom": "Pollich, Barton and O'Kon",
+    "type": "switch",
+    "remark": "Nondisp fx of med condyle of unsp tibia, 7thK",
+    "amount": "$8939.17",
+    "username": "Errol Steele"
+  },
+  {
+    "id": 24,
+    "date": "5/25/2023",
+    "showroom": "Jones-Kris",
+    "type": "jcb",
+    "remark": "Eccrine sweat disorder, unspecified",
+    "amount": "$2276.49",
+    "username": "Tadd Dowtry"
+  },
+  {
+    "id": 25,
+    "date": "4/18/2023",
+    "showroom": "Hyatt-Smith",
+    "type": "jcb",
+    "remark": "Visceral larva migrans",
+    "amount": "$2692.07",
+    "username": "Ludwig Darte"
+  },
+  {
+    "id": 26,
+    "date": "10/30/2023",
+    "showroom": "Mayer, Heaney and Gibson",
+    "type": "visa-electron",
+    "remark": "Age-rel osteopor w current path fracture, r low leg, sequela",
+    "amount": "$4726.21",
+    "username": "Zena Thyer"
+  },
+  {
+    "id": 27,
+    "date": "10/3/2023",
+    "showroom": "Haag, Nikolaus and Purdy",
+    "type": "bankcard",
+    "remark": "Preterm labor",
+    "amount": "$2649.18",
+    "username": "Drusie Sposito"
+  },
+  {
+    "id": 28,
+    "date": "9/14/2023",
+    "showroom": "Marks-Gutmann",
+    "type": "solo",
+    "remark": "Poisn by succinimides and oxazolidinediones, asslt, sequela",
+    "amount": "$7484.88",
+    "username": "Morganica Toppin"
+  },
+  {
+    "id": 29,
+    "date": "5/27/2023",
+    "showroom": "Morissette-Turner",
+    "type": "switch",
+    "remark": "Primary blast injury of colon",
+    "amount": "$4414.29",
+    "username": "Reese Philipart"
+  },
+  {
+    "id": 30,
+    "date": "10/11/2023",
+    "showroom": "Satterfield-Smitham",
+    "type": "switch",
+    "remark": "Unsp open wound of unsp cheek and TMJ area, subs",
+    "amount": "$9109.25",
+    "username": "Codie Lawlings"
+  },
+  {
+    "id": 31,
+    "date": "12/20/2023",
+    "showroom": "Kutch and Sons",
+    "type": "jcb",
+    "remark": "Abrasion, unspecified ankle, sequela",
+    "amount": "$6043.47",
+    "username": "Orsa Trencher"
+  },
+  {
+    "id": 32,
+    "date": "8/23/2023",
+    "showroom": "Grant-Harber",
+    "type": "laser",
+    "remark": "Other recurrent vertebral dislocation, lumbosacral region",
+    "amount": "$9344.39",
+    "username": "Madel Barizeret"
+  },
+  {
+    "id": 33,
+    "date": "12/2/2023",
+    "showroom": "King-Olson",
+    "type": "jcb",
+    "remark": "Disp fx of distal phalanx of right ring finger, sequela",
+    "amount": "$2072.20",
+    "username": "Regan Caraher"
+  },
+  {
+    "id": 34,
+    "date": "12/7/2023",
+    "showroom": "Moen-Skiles",
+    "type": "switch",
+    "remark": "Occup of 3-whl mv injured pick-up truck, pk-up/van in traf",
+    "amount": "$8545.09",
+    "username": "Sela Morphey"
+  },
+  {
+    "id": 35,
+    "date": "3/6/2023",
+    "showroom": "Jerde, Bartell and Dicki",
+    "type": "visa",
+    "remark": "Nondisp fx of shaft of unsp MC bone, 7thD",
+    "amount": "$9860.94",
+    "username": "Dorri Harrell"
+  },
+  {
+    "id": 36,
+    "date": "8/5/2023",
+    "showroom": "Ledner-Donnelly",
+    "type": "jcb",
+    "remark": "Cracked nipple associated with pregnancy, first trimester",
+    "amount": "$1824.71",
+    "username": "Emlyn Maddams"
+  },
+  {
+    "id": 37,
+    "date": "4/6/2023",
+    "showroom": "Spencer-Bailey",
+    "type": "jcb",
+    "remark": "Infantile and juvenile nuclear cataract, left eye",
+    "amount": "$1701.04",
+    "username": "Francis Hargreves"
+  },
+  {
+    "id": 38,
+    "date": "2/12/2023",
+    "showroom": "O'Conner, Kassulke and Daugherty",
+    "type": "jcb",
+    "remark": "Disp fx of coronoid pro of unsp ulna, 7thB",
+    "amount": "$2505.04",
+    "username": "Mavra Yearns"
+  },
+  {
+    "id": 39,
+    "date": "11/22/2023",
+    "showroom": "Christiansen LLC",
+    "type": "maestro",
+    "remark": "Nondisp oblique fx shaft of r rad, 7thK",
+    "amount": "$3723.84",
+    "username": "Zea Killich"
+  },
+  {
+    "id": 40,
+    "date": "7/11/2023",
+    "showroom": "Sanford, Brown and Beahan",
+    "type": "jcb",
+    "remark": "War operations involving fragments from munitions",
+    "amount": "$6050.06",
+    "username": "Georgy Sawood"
+  },
+  {
+    "id": 41,
+    "date": "2/11/2023",
+    "showroom": "Mayer-Dare",
+    "type": "visa",
+    "remark": "Toxic effect of other specified gases, fumes and vapors",
+    "amount": "$1593.31",
+    "username": "Sioux Lorenc"
+  },
+  {
+    "id": 42,
+    "date": "12/5/2023",
+    "showroom": "Bauch and Sons",
+    "type": "switch",
+    "remark": "Unsp fracture of unsp thoracic vertebra, init for clos fx",
+    "amount": "$2662.06",
+    "username": "Mendie Hanbury-Brown"
+  },
+  {
+    "id": 43,
+    "date": "5/27/2023",
+    "showroom": "Rau and Sons",
+    "type": "bankcard",
+    "remark": "Nondisplaced bicondylar fracture of right tibia",
+    "amount": "$2171.75",
+    "username": "Glynnis Meikle"
+  },
+  {
+    "id": 44,
+    "date": "8/15/2023",
+    "showroom": "Dooley LLC",
+    "type": "mastercard",
+    "remark": "Attic perforation of tympanic membrane",
+    "amount": "$6151.05",
+    "username": "Tamqrah Duchesne"
+  },
+  {
+    "id": 45,
+    "date": "11/29/2023",
+    "showroom": "Spencer-Rohan",
+    "type": "bankcard",
+    "remark": "Maternal care for cervical incompetence, first trimester",
+    "amount": "$7091.49",
+    "username": "Marshall Sennett"
+  },
+  {
+    "id": 46,
+    "date": "11/17/2023",
+    "showroom": "Witting-Ernser",
+    "type": "diners-club-enroute",
+    "remark": "Glaucoma sec to oth eye disord, l eye, indeterminate stage",
+    "amount": "$9655.40",
+    "username": "Andreana Tassell"
+  },
+  {
+    "id": 47,
+    "date": "7/18/2023",
+    "showroom": "Reilly-Wolf",
+    "type": "jcb",
+    "remark": "Disp fx of post pro of unsp talus, subs for fx w delay heal",
+    "amount": "$8461.64",
+    "username": "Margarette Grimme"
+  },
+  {
+    "id": 48,
+    "date": "5/21/2023",
+    "showroom": "Kunde-Kozey",
+    "type": "jcb",
+    "remark": "Other instability, unspecified wrist",
+    "amount": "$7301.98",
+    "username": "Malvin Pocklington"
+  },
+  {
+    "id": 49,
+    "date": "4/20/2023",
+    "showroom": "Wilkinson-Stamm",
+    "type": "jcb",
+    "remark": "Other contact with squirrel, initial encounter",
+    "amount": "$7757.47",
+    "username": "Leonelle Docket"
+  },
+  {
+    "id": 50,
+    "date": "4/17/2023",
+    "showroom": "Roberts-Mertz",
+    "type": "visa-electron",
+    "remark": "Asphyx due to being trapped in a car trunk, assault, sequela",
+    "amount": "$8162.74",
+    "username": "Torrie Scalia"
+  },
+  {
+    "id": 51,
+    "date": "5/31/2023",
+    "showroom": "Hoeger-Heathcote",
+    "type": "americanexpress",
+    "remark": "Oth cause of strike by thrown, projected or fall obj, sqla",
+    "amount": "$1490.23",
+    "username": "Helenelizabeth Creboe"
+  },
+  {
+    "id": 52,
+    "date": "11/7/2023",
+    "showroom": "Zboncak LLC",
+    "type": "jcb",
+    "remark": "Unsp inj blood vessels at lower leg level, left leg, sequela",
+    "amount": "$9143.00",
+    "username": "Graeme Licence"
+  },
+  {
+    "id": 53,
+    "date": "9/18/2023",
+    "showroom": "Leffler-Leannon",
+    "type": "diners-club-enroute",
+    "remark": "Disp fx of lateral end of unsp clavicle, init for clos fx",
+    "amount": "$1934.20",
+    "username": "Karin Garaway"
+  },
+  {
+    "id": 54,
+    "date": "9/26/2023",
+    "showroom": "Pagac Group",
+    "type": "visa-electron",
+    "remark": "Laceration of musc/fasc/tend triceps, right arm, init",
+    "amount": "$2329.01",
+    "username": "Ade Wilcott"
+  },
+  {
+    "id": 55,
+    "date": "8/6/2023",
+    "showroom": "Boehm, Medhurst and Muller",
+    "type": "visa-electron",
+    "remark": "Occupant of stcar injured in clsn w mtr veh nontraf, subs",
+    "amount": "$6451.95",
+    "username": "Jedd Jeffree"
+  },
+  {
+    "id": 56,
+    "date": "1/28/2023",
+    "showroom": "Langosh, Leuschke and Bailey",
+    "type": "jcb",
+    "remark": "Unsp inj unsp bld vess at abd, low back and pelv level, subs",
+    "amount": "$1981.44",
+    "username": "Orlando Blest"
+  },
+  {
+    "id": 57,
+    "date": "1/28/2023",
+    "showroom": "Cummings Group",
+    "type": "bankcard",
+    "remark": "Other tuberculosis of nervous system",
+    "amount": "$3024.99",
+    "username": "Avis Ickovicz"
+  },
+  {
+    "id": 58,
+    "date": "3/7/2023",
+    "showroom": "Howe-Murray",
+    "type": "jcb",
+    "remark": "Adverse effect of enzymes, initial encounter",
+    "amount": "$1677.81",
+    "username": "Danit Crysell"
+  },
+  {
+    "id": 59,
+    "date": "9/1/2023",
+    "showroom": "Batz, O'Connell and Brown",
+    "type": "switch",
+    "remark": "Sltr-haris Type IV physeal fx phalanx of unspecified toe",
+    "amount": "$3167.94",
+    "username": "Spense Lack"
+  },
+  {
+    "id": 60,
+    "date": "8/15/2023",
+    "showroom": "Watsica Group",
+    "type": "jcb",
+    "remark": "Decreased fetal movements, third trimester, fetus 1",
+    "amount": "$9657.81",
+    "username": "Dominique Gosling"
+  },
+  {
+    "id": 61,
+    "date": "6/3/2023",
+    "showroom": "Beatty, Wunsch and Gislason",
+    "type": "jcb",
+    "remark": "Nondisp fx of unsp tibial spin, 7thM",
+    "amount": "$7741.12",
+    "username": "Jasmina Hof"
+  },
+  {
+    "id": 62,
+    "date": "10/4/2023",
+    "showroom": "Altenwerth, Kutch and Raynor",
+    "type": "jcb",
+    "remark": "Laceration of blood vessel of right thumb, sequela",
+    "amount": "$3947.06",
+    "username": "Talyah Maycock"
+  },
+  {
+    "id": 63,
+    "date": "5/24/2023",
+    "showroom": "Fadel Inc",
+    "type": "china-unionpay",
+    "remark": "Ghost vessels (corneal), right eye",
+    "amount": "$1425.08",
+    "username": "Lorri Alen"
+  },
+  {
+    "id": 64,
+    "date": "12/1/2023",
+    "showroom": "Feil-Effertz",
+    "type": "jcb",
+    "remark": "Increased secretion of glucagon",
+    "amount": "$4605.98",
+    "username": "Lenette Rennie"
+  },
+  {
+    "id": 65,
+    "date": "9/17/2023",
+    "showroom": "Ernser, Wilkinson and Cruickshank",
+    "type": "instapayment",
+    "remark": "Congen absence, atresia and stenosis of sm int, part unsp",
+    "amount": "$9424.96",
+    "username": "Lexy Huelin"
+  },
+  {
+    "id": 66,
+    "date": "12/17/2023",
+    "showroom": "Price-Nolan",
+    "type": "china-unionpay",
+    "remark": "Sltr-haris Type I physl fx low end ulna, r arm, 7thK",
+    "amount": "$7620.64",
+    "username": "Blayne Ephson"
+  },
+  {
+    "id": 67,
+    "date": "5/20/2023",
+    "showroom": "Reichel, Kovacek and Romaguera",
+    "type": "mastercard",
+    "remark": "Displaced spiral fracture of shaft of right tibia, init",
+    "amount": "$7155.93",
+    "username": "Merla Arnowicz"
+  },
+  {
+    "id": 68,
+    "date": "6/27/2023",
+    "showroom": "Mann Group",
+    "type": "jcb",
+    "remark": "Other specified arthritis, left shoulder",
+    "amount": "$1276.68",
+    "username": "Dorie Pimblett"
+  },
+  {
+    "id": 69,
+    "date": "4/13/2023",
+    "showroom": "Okuneva and Sons",
+    "type": "diners-club-us-ca",
+    "remark": "Idiopathic chronic gout, left shoulder, with tophus (tophi)",
+    "amount": "$8831.55",
+    "username": "Aldric de la Tremoille"
+  },
+  {
+    "id": 70,
+    "date": "6/8/2023",
+    "showroom": "Upton, Barrows and Mosciski",
+    "type": "mastercard",
+    "remark": "Cont preg aft uterin dth of one fts or more, third tri, fts3",
+    "amount": "$3311.39",
+    "username": "Josiah Sydry"
+  },
+  {
+    "id": 71,
+    "date": "12/11/2023",
+    "showroom": "Powlowski-Douglas",
+    "type": "jcb",
+    "remark": "Fracture of unspecified part of neck of unspecified femur",
+    "amount": "$2650.43",
+    "username": "Jessa Bertrand"
+  },
+  {
+    "id": 72,
+    "date": "7/13/2023",
+    "showroom": "Grant Group",
+    "type": "mastercard",
+    "remark": "Oth fx of low end l rad, subs for opn fx type I/2 w nonunion",
+    "amount": "$5243.56",
+    "username": "Esra Ambrosch"
+  },
+  {
+    "id": 73,
+    "date": "6/8/2023",
+    "showroom": "Gislason Inc",
+    "type": "jcb",
+    "remark": "Other chondrocalcinosis, right knee",
+    "amount": "$2039.21",
+    "username": "Duky Murfin"
+  },
+  {
+    "id": 74,
+    "date": "2/2/2023",
+    "showroom": "Lueilwitz-Pfannerstill",
+    "type": "mastercard",
+    "remark": "Nondisp fx of med phalanx of unsp fngr, 7thP",
+    "amount": "$9025.04",
+    "username": "Elly Syres"
+  },
+  {
+    "id": 75,
+    "date": "2/21/2023",
+    "showroom": "Leannon LLC",
+    "type": "jcb",
+    "remark": "Burn 1st deg of unsp site right lower limb, ex ank/ft, init",
+    "amount": "$9582.96",
+    "username": "Lodovico Frain"
+  },
+  {
+    "id": 76,
+    "date": "7/25/2023",
+    "showroom": "Ritchie, Roob and D'Amore",
+    "type": "bankcard",
+    "remark": "Toxic effect of chlorofluorocarbons, assault, init encntr",
+    "amount": "$1624.87",
+    "username": "Sisile Croston"
+  },
+  {
+    "id": 77,
+    "date": "11/27/2023",
+    "showroom": "Watsica, Abernathy and O'Hara",
+    "type": "switch",
+    "remark": "Torus fx lower end of r fibula, subs for fx w nonunion",
+    "amount": "$1752.47",
+    "username": "Anabel Kirtlan"
+  },
+  {
+    "id": 78,
+    "date": "11/19/2023",
+    "showroom": "Ferry-Hamill",
+    "type": "jcb",
+    "remark": "Injury of other nerves at forearm level, right arm",
+    "amount": "$5865.83",
+    "username": "Sonny Ksandra"
+  },
+  {
+    "id": 79,
+    "date": "3/17/2023",
+    "showroom": "Beahan Group",
+    "type": "jcb",
+    "remark": "Term delivery with preterm labor, second trimester, fetus 1",
+    "amount": "$7045.13",
+    "username": "Aylmar Ivanilov"
+  },
+  {
+    "id": 80,
+    "date": "2/25/2023",
+    "showroom": "Gutkowski-Lehner",
+    "type": "jcb",
+    "remark": "War op involving fragments of improv explosive device",
+    "amount": "$6567.01",
+    "username": "Clerissa Nand"
+  },
+  {
+    "id": 81,
+    "date": "6/29/2023",
+    "showroom": "Lehner-Wyman",
+    "type": "maestro",
+    "remark": "Traum rupt of volar plate of unsp finger at MCP/IP jt, init",
+    "amount": "$2227.92",
+    "username": "Frederigo Kinnon"
+  },
+  {
+    "id": 82,
+    "date": "4/7/2023",
+    "showroom": "Beer-Marvin",
+    "type": "jcb",
+    "remark": "Path fracture in neoplastic disease, r humerus, sequela",
+    "amount": "$1605.80",
+    "username": "Kasey Paxforde"
+  },
+  {
+    "id": 83,
+    "date": "6/19/2023",
+    "showroom": "Daugherty, Berge and Gorczany",
+    "type": "visa-electron",
+    "remark": "Infect/inflm reaction due to int fix of right ulna, init",
+    "amount": "$5421.96",
+    "username": "Kristina Blackney"
+  },
+  {
+    "id": 84,
+    "date": "5/13/2023",
+    "showroom": "Schamberger-Russel",
+    "type": "mastercard",
+    "remark": "Poisoning by ganglionic blocking drugs, undet, sequela",
+    "amount": "$5536.05",
+    "username": "Gabby Childrens"
+  },
+  {
+    "id": 85,
+    "date": "4/12/2023",
+    "showroom": "Ullrich, Effertz and Schneider",
+    "type": "jcb",
+    "remark": "Streptococcus pneumoniae causing diseases classd elswhr",
+    "amount": "$6500.71",
+    "username": "Malvin Mountfort"
+  },
+  {
+    "id": 86,
+    "date": "3/24/2023",
+    "showroom": "Swift Inc",
+    "type": "jcb",
+    "remark": "Mature T/NK-cell lymphomas, unspecified",
+    "amount": "$3340.19",
+    "username": "Kattie Fellis"
+  },
+  {
+    "id": 87,
+    "date": "3/20/2023",
+    "showroom": "Waters-Dickinson",
+    "type": "jcb",
+    "remark": "Underdosing of unspecified topical agent",
+    "amount": "$7827.58",
+    "username": "Kari Medlen"
+  },
+  {
+    "id": 88,
+    "date": "3/24/2023",
+    "showroom": "Ankunding, Kreiger and Stokes",
+    "type": "diners-club-enroute",
+    "remark": "Unspecified ptosis of bilateral eyelids",
+    "amount": "$3308.66",
+    "username": "Aeriel Tressler"
+  },
+  {
+    "id": 89,
+    "date": "11/1/2023",
+    "showroom": "Flatley-Purdy",
+    "type": "jcb",
+    "remark": "Nondisp commnt suprcndl fx w/o intrcndl fx r humer, 7thB",
+    "amount": "$3618.48",
+    "username": "Sibley Hyne"
+  },
+  {
+    "id": 90,
+    "date": "3/16/2023",
+    "showroom": "Auer-Kutch",
+    "type": "jcb",
+    "remark": "Poisoning by antidotes and chelating agents, accidental",
+    "amount": "$2744.93",
+    "username": "Hyatt Boulstridge"
+  },
+  {
+    "id": 91,
+    "date": "6/13/2023",
+    "showroom": "Wiegand, Harber and Kozey",
+    "type": "mastercard",
+    "remark": "Multiple perforations of tympanic membrane, left ear",
+    "amount": "$7963.29",
+    "username": "Geri MacKeogh"
+  },
+  {
+    "id": 92,
+    "date": "8/24/2023",
+    "showroom": "Bode-Cummerata",
+    "type": "diners-club-enroute",
+    "remark": "Striking against or struck by other sports equipment",
+    "amount": "$8656.20",
+    "username": "Doris Mc Faul"
+  },
+  {
+    "id": 93,
+    "date": "1/10/2024",
+    "showroom": "Tillman, Hayes and Roob",
+    "type": "americanexpress",
+    "remark": "Nondisp fx of cuboid bone of r ft, subs for fx w routn heal",
+    "amount": "$8359.19",
+    "username": "Madalena Dryburgh"
+  },
+  {
+    "id": 94,
+    "date": "1/10/2024",
+    "showroom": "Torphy Inc",
+    "type": "laser",
+    "remark": "Newborn aff by uterin (fetal) blood loss from ruptured cord",
+    "amount": "$8114.48",
+    "username": "Jacquette McGuckin"
+  },
+  {
+    "id": 95,
+    "date": "1/1/2024",
+    "showroom": "Kuhlman-Johnson",
+    "type": "jcb",
+    "remark": "Drowning and submersion due to unsp watercraft overturning",
+    "amount": "$3844.23",
+    "username": "Mitchael Pleavin"
+  },
+  {
+    "id": 96,
+    "date": "9/8/2023",
+    "showroom": "Cruickshank-Kub",
+    "type": "jcb",
+    "remark": "Frostbite with tissue necrosis of right foot, sequela",
+    "amount": "$7568.49",
+    "username": "Cooper Greenfield"
+  },
+  {
+    "id": 97,
+    "date": "8/4/2023",
+    "showroom": "Murray, Bednar and Gulgowski",
+    "type": "jcb",
+    "remark": "Unsp injury at C8 level of cervical spinal cord, sequela",
+    "amount": "$1445.91",
+    "username": "Sarah Kellet"
+  },
+  {
+    "id": 98,
+    "date": "11/30/2023",
+    "showroom": "Beahan LLC",
+    "type": "maestro",
+    "remark": "Infective myositis, right lower leg",
+    "amount": "$2493.47",
+    "username": "Timmie Belverstone"
+  },
+  {
+    "id": 99,
+    "date": "1/2/2024",
+    "showroom": "Spinka, Hauck and Kiehn",
+    "type": "americanexpress",
+    "remark": "Laceration without foreign body of left upper arm",
+    "amount": "$6601.16",
+    "username": "Denny O'Luney"
+  },
+  {
+    "id": 100,
+    "date": "12/26/2023",
+    "showroom": "Brown, Schmeler and Bartell",
+    "type": "diners-club-enroute",
+    "remark": "Miliaria, unspecified",
+    "amount": "$8485.87",
+    "username": "Kelila Oppie"
+  },
+  {
+    "id": 101,
+    "date": "6/29/2023",
+    "showroom": "Ullrich and Sons",
+    "type": "diners-club-enroute",
+    "remark": "Age-rel osteopor w crnt path fx, r low leg, 7thP",
+    "amount": "$3169.55",
+    "username": "Imogen Treversh"
+  },
+  {
+    "id": 102,
+    "date": "10/11/2023",
+    "showroom": "Kulas, Lockman and Klocko",
+    "type": "solo",
+    "remark": "Poisoning by unsp narcotics, undetermined, subs encntr",
+    "amount": "$8046.59",
+    "username": "Anastassia Podbury"
+  },
+  {
+    "id": 103,
+    "date": "3/26/2023",
+    "showroom": "Von, Kilback and Goyette",
+    "type": "mastercard",
+    "remark": "Unsp pedl cyclst inj in clsn w nonmtr vehicle in traf, subs",
+    "amount": "$5537.21",
+    "username": "Jocko Dicky"
+  },
+  {
+    "id": 104,
+    "date": "5/17/2023",
+    "showroom": "Rau, Kovacek and Beahan",
+    "type": "jcb",
+    "remark": "Toxic effect of oth substances, undetermined, sequela",
+    "amount": "$1281.00",
+    "username": "Sutherland Alker"
+  },
+  {
+    "id": 105,
+    "date": "1/31/2023",
+    "showroom": "Satterfield Inc",
+    "type": "diners-club-us-ca",
+    "remark": "Poisoning by oth antiepileptic and sed-hypntc drugs, assault",
+    "amount": "$9647.63",
+    "username": "Shari Deely"
+  },
+  {
+    "id": 106,
+    "date": "12/25/2023",
+    "showroom": "Feil-Schmeler",
+    "type": "jcb",
+    "remark": "Juvenile osteochondrosis of hip and pelvis, unsp, right leg",
+    "amount": "$9464.91",
+    "username": "Burke Champness"
+  },
+  {
+    "id": 107,
+    "date": "2/3/2023",
+    "showroom": "Rohan, Heidenreich and Kuhic",
+    "type": "diners-club-carte-blanche",
+    "remark": "Strain extn musc/fasc/tend l mid finger at forarm lv, sqla",
+    "amount": "$4543.28",
+    "username": "Garret Maguire"
+  },
+  {
+    "id": 108,
+    "date": "2/11/2023",
+    "showroom": "Stracke-Carter",
+    "type": "jcb",
+    "remark": "Nondisp pilon fx right tibia, subs for clos fx w routn heal",
+    "amount": "$6042.26",
+    "username": "Iseabal Pridie"
+  },
+  {
+    "id": 109,
+    "date": "5/12/2023",
+    "showroom": "Wunsch Group",
+    "type": "mastercard",
+    "remark": "Displacement of intraperitoneal dialysis catheter, subs",
+    "amount": "$2271.76",
+    "username": "Tracee Tine"
+  },
+  {
+    "id": 110,
+    "date": "1/21/2023",
+    "showroom": "Wiza Group",
+    "type": "visa",
+    "remark": "Traum hemor cereb, w LOC of 6 hours to 24 hours, sequela",
+    "amount": "$9711.62",
+    "username": "Sansone Rohlfs"
+  },
+  {
+    "id": 111,
+    "date": "12/5/2023",
+    "showroom": "Schaden, Herman and Feeney",
+    "type": "jcb",
+    "remark": "War op w oth effects of nuclear weapons, civilian, subs",
+    "amount": "$3883.12",
+    "username": "Brett Hutcheon"
+  },
+  {
+    "id": 112,
+    "date": "5/15/2023",
+    "showroom": "Kling-Ernser",
+    "type": "americanexpress",
+    "remark": "Hallucinogen dependence w psychotic disorder w delusions",
+    "amount": "$957.27",
+    "username": "Borg Ungerer"
+  },
+  {
+    "id": 113,
+    "date": "6/5/2023",
+    "showroom": "Goyette-Towne",
+    "type": "diners-club-us-ca",
+    "remark": "Thrombosis due to other internal prosth dev/grft, init",
+    "amount": "$8810.89",
+    "username": "Selina Wallworth"
+  },
+  {
+    "id": 114,
+    "date": "10/30/2023",
+    "showroom": "Orn, Wuckert and Hammes",
+    "type": "jcb",
+    "remark": "Pasngr in 3-whl mv injured in clsn w oth and unsp mv in traf",
+    "amount": "$5240.62",
+    "username": "Marie-ann Jandac"
+  },
+  {
+    "id": 115,
+    "date": "3/25/2023",
+    "showroom": "Kihn, Larkin and Marks",
+    "type": "bankcard",
+    "remark": "Ped on sktbrd injured in clsn w 2/3-whl mv, unsp, sequela",
+    "amount": "$6122.49",
+    "username": "Michal Garriock"
+  },
+  {
+    "id": 116,
+    "date": "9/15/2023",
+    "showroom": "Mertz, O'Keefe and Skiles",
+    "type": "mastercard",
+    "remark": "Poisn by oth antacids and anti-gstrc-sec drugs, undet, subs",
+    "amount": "$6582.31",
+    "username": "Dael Kytley"
+  },
+  {
+    "id": 117,
+    "date": "8/8/2023",
+    "showroom": "Okuneva, Beier and Kirlin",
+    "type": "maestro",
+    "remark": "Neoplasm of uncertain behavior of male genital organ, unsp",
+    "amount": "$6435.01",
+    "username": "Cal McCowan"
+  },
+  {
+    "id": 118,
+    "date": "11/10/2023",
+    "showroom": "Terry LLC",
+    "type": "switch",
+    "remark": "Toxic effect of carb monx from incmpl combst dmst fuel, acc",
+    "amount": "$6440.47",
+    "username": "Grier Burchett"
+  },
+  {
+    "id": 119,
+    "date": "3/21/2023",
+    "showroom": "Ullrich LLC",
+    "type": "jcb",
+    "remark": "Chronic nephritic syndrome w diffuse membranous glomrlneph",
+    "amount": "$3773.51",
+    "username": "Zelig Jewess"
+  },
+  {
+    "id": 120,
+    "date": "11/12/2023",
+    "showroom": "Bradtke, Larkin and Wiegand",
+    "type": "switch",
+    "remark": "Acute radiodermatitis",
+    "amount": "$8663.64",
+    "username": "Armando Vondrasek"
+  },
+  {
+    "id": 121,
+    "date": "11/28/2023",
+    "showroom": "Feil, Fahey and Hilll",
+    "type": "china-unionpay",
+    "remark": "Burn of 2nd deg mul sites of unsp ankle and foot, sequela",
+    "amount": "$7971.27",
+    "username": "Arley Baggallay"
+  },
+  {
+    "id": 122,
+    "date": "11/27/2023",
+    "showroom": "Kulas-Feil",
+    "type": "jcb",
+    "remark": "Foreign body in small intestine, initial encounter",
+    "amount": "$3398.17",
+    "username": "Gallard Skermer"
+  },
+  {
+    "id": 123,
+    "date": "3/13/2023",
+    "showroom": "Block, Connelly and Balistreri",
+    "type": "instapayment",
+    "remark": "Marker chromosomes",
+    "amount": "$9827.05",
+    "username": "Huberto Hopkins"
+  },
+  {
+    "id": 124,
+    "date": "12/15/2023",
+    "showroom": "Beahan, Marks and Baumbach",
+    "type": "laser",
+    "remark": "Displ oblique fx shaft of unsp fibula, 7thJ",
+    "amount": "$2896.26",
+    "username": "Susanna Kilfeather"
+  },
+  {
+    "id": 125,
+    "date": "3/30/2023",
+    "showroom": "Price Inc",
+    "type": "jcb",
+    "remark": "Failed induction of labor, unspecified",
+    "amount": "$1197.09",
+    "username": "Honoria Marjanovic"
+  },
+  {
+    "id": 126,
+    "date": "3/26/2023",
+    "showroom": "Jenkins Inc",
+    "type": "mastercard",
+    "remark": "Adverse effect of antiasthmatics, initial encounter",
+    "amount": "$4112.70",
+    "username": "Stewart Dory"
+  },
+  {
+    "id": 127,
+    "date": "12/22/2023",
+    "showroom": "Volkman, Torphy and Stark",
+    "type": "laser",
+    "remark": "Other osteonecrosis, multiple sites",
+    "amount": "$2411.03",
+    "username": "Sallyann Crossfeld"
+  },
+  {
+    "id": 128,
+    "date": "3/21/2023",
+    "showroom": "Huel LLC",
+    "type": "switch",
+    "remark": "Unsp inj flexor musc/fasc/tend l rng fngr at forarm lv, subs",
+    "amount": "$2373.33",
+    "username": "Lanie Torel"
+  },
+  {
+    "id": 129,
+    "date": "4/13/2023",
+    "showroom": "Johnston, Corwin and Douglas",
+    "type": "bankcard",
+    "remark": "Traumatic rupture of unsp ligament of left wrist, subs",
+    "amount": "$9703.22",
+    "username": "Beverly Colebrook"
+  },
+  {
+    "id": 130,
+    "date": "12/30/2023",
+    "showroom": "Kertzmann-Kuhlman",
+    "type": "jcb",
+    "remark": "Type 1 diabetes with mild nonp rtnop with macular edema, bi",
+    "amount": "$594.09",
+    "username": "Goldie Kleinhaut"
+  },
+  {
+    "id": 131,
+    "date": "5/6/2023",
+    "showroom": "Aufderhar, Hane and McCullough",
+    "type": "solo",
+    "remark": "Disorder of white blood cells, unspecified",
+    "amount": "$8849.73",
+    "username": "Ofelia Baudou"
+  },
+  {
+    "id": 132,
+    "date": "11/17/2023",
+    "showroom": "Schmitt-Hyatt",
+    "type": "jcb",
+    "remark": "Instability of internal right knee prosthesis",
+    "amount": "$1363.74",
+    "username": "Haily Merrisson"
+  },
+  {
+    "id": 133,
+    "date": "4/15/2023",
+    "showroom": "Hackett, Abshire and Auer",
+    "type": "laser",
+    "remark": "Other cervical disc disorders at C4-C5 level",
+    "amount": "$4381.21",
+    "username": "Aldin Ledson"
+  },
+  {
+    "id": 134,
+    "date": "4/14/2023",
+    "showroom": "Fritsch, O'Connell and Rosenbaum",
+    "type": "switch",
+    "remark": "Burn 1st deg of unsp site right lower limb, ex ank/ft, init",
+    "amount": "$766.02",
+    "username": "Trina Halsworth"
+  },
+  {
+    "id": 135,
+    "date": "5/7/2023",
+    "showroom": "Marquardt, Fahey and Hayes",
+    "type": "jcb",
+    "remark": "Exposure to other animate mechanical forces, sequela",
+    "amount": "$7413.75",
+    "username": "Kayla Sloey"
+  },
+  {
+    "id": 136,
+    "date": "11/16/2023",
+    "showroom": "Wolff, Reichel and Stiedemann",
+    "type": "jcb",
+    "remark": "Occup of snowmobile injured in traffic accident, sequela",
+    "amount": "$3463.01",
+    "username": "Emmerich Costock"
+  },
+  {
+    "id": 137,
+    "date": "4/8/2023",
+    "showroom": "Rice, Schroeder and Keebler",
+    "type": "switch",
+    "remark": "Squamous cell carcinoma of skin of lower limb, including hip",
+    "amount": "$4545.86",
+    "username": "Peggi Leyfield"
+  },
+  {
+    "id": 138,
+    "date": "2/21/2023",
+    "showroom": "Bayer Group",
+    "type": "instapayment",
+    "remark": "Strain of unsp musc/fasc/tend at thi lev, left thigh, init",
+    "amount": "$4944.55",
+    "username": "Stephan MacCaughey"
+  },
+  {
+    "id": 139,
+    "date": "12/9/2023",
+    "showroom": "Abbott-Schmitt",
+    "type": "diners-club-enroute",
+    "remark": "Disloc of unsp interphaln joint of l little finger, subs",
+    "amount": "$7953.74",
+    "username": "Georgie Pearson"
+  },
+  {
+    "id": 140,
+    "date": "6/15/2023",
+    "showroom": "Greenholt-Haley",
+    "type": "jcb",
+    "remark": "Primary dysmenorrhea",
+    "amount": "$8469.92",
+    "username": "Cletus Slowgrove"
+  },
+  {
+    "id": 141,
+    "date": "12/22/2023",
+    "showroom": "Cummerata, Lesch and Hilll",
+    "type": "maestro",
+    "remark": "Unspecified dislocation of left middle finger, sequela",
+    "amount": "$746.32",
+    "username": "Sibbie Josephsen"
+  },
+  {
+    "id": 142,
+    "date": "2/24/2023",
+    "showroom": "Nitzsche-Johns",
+    "type": "jcb",
+    "remark": "Maternal care for oth fetal problems, second tri, fetus 3",
+    "amount": "$4094.30",
+    "username": "Brod Peare"
+  },
+  {
+    "id": 143,
+    "date": "6/22/2023",
+    "showroom": "Deckow LLC",
+    "type": "jcb",
+    "remark": "Other and unspecified porphyria",
+    "amount": "$1011.01",
+    "username": "Ilaire Cocker"
+  },
+  {
+    "id": 144,
+    "date": "7/4/2023",
+    "showroom": "Glover and Sons",
+    "type": "visa",
+    "remark": "Disorder of ligament",
+    "amount": "$2186.91",
+    "username": "Evangelia Kernermann"
+  },
+  {
+    "id": 145,
+    "date": "1/28/2023",
+    "showroom": "Dibbert and Sons",
+    "type": "diners-club-enroute",
+    "remark": "Burn of unspecified degree of wrist",
+    "amount": "$1642.40",
+    "username": "Adena Dalby"
+  },
+  {
+    "id": 146,
+    "date": "4/3/2023",
+    "showroom": "Simonis LLC",
+    "type": "diners-club-carte-blanche",
+    "remark": "Driver of bus injured in collision w hv veh nontraf, init",
+    "amount": "$5293.68",
+    "username": "Ailsun Bassom"
+  },
+  {
+    "id": 147,
+    "date": "1/21/2023",
+    "showroom": "Stark and Sons",
+    "type": "jcb",
+    "remark": "Stenosis of peripheral vascular stent, sequela",
+    "amount": "$6733.63",
+    "username": "Thorvald McMurdo"
+  },
+  {
+    "id": 148,
+    "date": "3/16/2023",
+    "showroom": "Simonis-Bartoletti",
+    "type": "jcb",
+    "remark": "Chronic lacrimal canaliculitis of bi lacrimal passages",
+    "amount": "$9655.02",
+    "username": "Fianna O'Rafferty"
+  },
+  {
+    "id": 149,
+    "date": "12/11/2023",
+    "showroom": "Wisozk-Stanton",
+    "type": "maestro",
+    "remark": "Unspecified injury of esophagus (thoracic part), subs encntr",
+    "amount": "$574.29",
+    "username": "Bartlet Caldron"
+  },
+  {
+    "id": 150,
+    "date": "11/25/2023",
+    "showroom": "Sporer, Jacobson and Corwin",
+    "type": "diners-club-enroute",
+    "remark": "Unsp car occupant injured in clsn w oth mv nontraf, sequela",
+    "amount": "$5033.03",
+    "username": "Doroteya Constantinou"
+  },
+  {
+    "id": 151,
+    "date": "11/12/2023",
+    "showroom": "Koss-Conroy",
+    "type": "diners-club-enroute",
+    "remark": "Acute perichondritis of external ear, unspecified ear",
+    "amount": "$6197.57",
+    "username": "Panchito Cumberlidge"
+  },
+  {
+    "id": 152,
+    "date": "12/9/2023",
+    "showroom": "Collier, Armstrong and Smith",
+    "type": "maestro",
+    "remark": "Contusion of diaphragm, sequela",
+    "amount": "$4641.36",
+    "username": "Alysia Boundey"
+  },
+  {
+    "id": 153,
+    "date": "6/11/2023",
+    "showroom": "Greenfelder-Upton",
+    "type": "jcb",
+    "remark": "Corros first deg of shldr/up lmb, ex wrs/hnd unsp site, sqla",
+    "amount": "$628.54",
+    "username": "Raye Greve"
+  },
+  {
+    "id": 154,
+    "date": "5/4/2023",
+    "showroom": "Sauer, Collier and Pollich",
+    "type": "jcb",
+    "remark": "Nondisp fx of hook pro of hamate bone, l wrs, 7thG",
+    "amount": "$6810.81",
+    "username": "Flore Abson"
+  },
+  {
+    "id": 155,
+    "date": "5/11/2023",
+    "showroom": "Bashirian, Sanford and Schmitt",
+    "type": "jcb",
+    "remark": "Nondisp transverse fx shaft of r fibula, 7thH",
+    "amount": "$6821.39",
+    "username": "Deina Teager"
+  },
+  {
+    "id": 156,
+    "date": "4/14/2023",
+    "showroom": "Schinner-Kutch",
+    "type": "maestro",
+    "remark": "Strain musc/tend peroneal grp at low leg lev, unsp leg, sqla",
+    "amount": "$4441.69",
+    "username": "Theodor Jakubovits"
+  },
+  {
+    "id": 157,
+    "date": "5/15/2023",
+    "showroom": "Corkery-Luettgen",
+    "type": "maestro",
+    "remark": "Myelofibrosis",
+    "amount": "$8619.63",
+    "username": "Danna Feehan"
+  },
+  {
+    "id": 158,
+    "date": "1/24/2023",
+    "showroom": "Weissnat, Conroy and O'Conner",
+    "type": "visa-electron",
+    "remark": "Contus/lac l cereb w LOC w death d/t brain injury bf consc",
+    "amount": "$9220.44",
+    "username": "Hi Sautter"
+  },
+  {
+    "id": 159,
+    "date": "2/19/2023",
+    "showroom": "Hahn, Hilpert and Kulas",
+    "type": "visa",
+    "remark": "Family history of polycystic kidney",
+    "amount": "$7742.56",
+    "username": "Erhart Carlaw"
+  },
+  {
+    "id": 160,
+    "date": "3/20/2023",
+    "showroom": "Hickle-Schoen",
+    "type": "visa",
+    "remark": "Burn of unspecified degree of back of right hand, sequela",
+    "amount": "$2985.35",
+    "username": "Correna Boatright"
+  },
+  {
+    "id": 161,
+    "date": "7/23/2023",
+    "showroom": "Connelly-Grimes",
+    "type": "jcb",
+    "remark": "Underdosing of antitussives",
+    "amount": "$3530.40",
+    "username": "Christabel Jeffries"
+  },
+  {
+    "id": 162,
+    "date": "4/2/2023",
+    "showroom": "Prosacco-Wolff",
+    "type": "jcb",
+    "remark": "Poisoning by mineralocorticoids and antag, self-harm, init",
+    "amount": "$6406.06",
+    "username": "Hailee Ebhardt"
+  },
+  {
+    "id": 163,
+    "date": "10/31/2023",
+    "showroom": "Walker-Blanda",
+    "type": "visa-electron",
+    "remark": "Coronary atherosclerosis due to lipid rich plaque",
+    "amount": "$4147.40",
+    "username": "Addi Howler"
+  },
+  {
+    "id": 164,
+    "date": "1/21/2023",
+    "showroom": "Farrell, Oberbrunner and Schumm",
+    "type": "americanexpress",
+    "remark": "Inj musc/tend the rotator cuff of right shoulder, sequela",
+    "amount": "$9136.20",
+    "username": "Corabel Chappelow"
+  },
+  {
+    "id": 165,
+    "date": "10/26/2023",
+    "showroom": "Olson, Kris and Abernathy",
+    "type": "jcb",
+    "remark": "Corrosion of second degree back of unsp hand, subs encntr",
+    "amount": "$3857.60",
+    "username": "Leighton Hiner"
+  },
+  {
+    "id": 166,
+    "date": "7/26/2023",
+    "showroom": "Skiles Inc",
+    "type": "jcb",
+    "remark": "Hit by falling object due to acc to inflatbl crft, sequela",
+    "amount": "$2004.98",
+    "username": "Berky Spaxman"
+  },
+  {
+    "id": 167,
+    "date": "12/26/2023",
+    "showroom": "Mante, Conn and Harvey",
+    "type": "jcb",
+    "remark": "Blister (nonthermal) of oral cavity, initial encounter",
+    "amount": "$7913.15",
+    "username": "Nonna Cornier"
+  },
+  {
+    "id": 168,
+    "date": "4/18/2023",
+    "showroom": "D'Amore, Donnelly and Jenkins",
+    "type": "jcb",
+    "remark": "Disp fx of post wl of unsp acetab, subs for fx w routn heal",
+    "amount": "$7315.15",
+    "username": "Brana Stallion"
+  },
+  {
+    "id": 169,
+    "date": "11/13/2023",
+    "showroom": "Jones and Sons",
+    "type": "maestro",
+    "remark": "Oth traum displ spondylolysis of seventh cervcal vert, init",
+    "amount": "$8195.20",
+    "username": "Trey Everil"
+  },
+  {
+    "id": 170,
+    "date": "10/30/2023",
+    "showroom": "Mills Group",
+    "type": "mastercard",
+    "remark": "Unspecified injury of right kidney, subsequent encounter",
+    "amount": "$3065.31",
+    "username": "Reube Dunican"
+  },
+  {
+    "id": 171,
+    "date": "12/18/2023",
+    "showroom": "Casper-Cruickshank",
+    "type": "maestro",
+    "remark": "Other rupture of muscle (nontraumatic), lower leg",
+    "amount": "$4496.37",
+    "username": "Gratiana Neame"
+  },
+  {
+    "id": 172,
+    "date": "10/16/2023",
+    "showroom": "Wilkinson, Mertz and Wintheiser",
+    "type": "jcb",
+    "remark": "Path fracture in neoplastic disease, left tibia, init",
+    "amount": "$4363.05",
+    "username": "Cathlene Minchell"
+  },
+  {
+    "id": 173,
+    "date": "10/8/2023",
+    "showroom": "Auer Inc",
+    "type": "diners-club-enroute",
+    "remark": "Unsp athscl type of bypass graft(s) of the extremities",
+    "amount": "$5393.03",
+    "username": "Skye Jowers"
+  },
+  {
+    "id": 174,
+    "date": "8/2/2023",
+    "showroom": "Jerde, Walsh and Erdman",
+    "type": "maestro",
+    "remark": "Infct of amniotic sac and membrns, unsp, unsp tri, fetus 1",
+    "amount": "$6116.22",
+    "username": "Maxy Iacovino"
+  },
+  {
+    "id": 175,
+    "date": "3/7/2023",
+    "showroom": "Willms-Larson",
+    "type": "diners-club-international",
+    "remark": "Unsp injury of musc/fasc/tend at wrs/hnd lv, right hand",
+    "amount": "$578.12",
+    "username": "Barri Brewood"
+  },
+  {
+    "id": 176,
+    "date": "10/26/2023",
+    "showroom": "Goldner LLC",
+    "type": "maestro",
+    "remark": "Calcification and ossification of muscle, unspecified",
+    "amount": "$3126.53",
+    "username": "Hugues Wais"
+  },
+  {
+    "id": 177,
+    "date": "4/22/2023",
+    "showroom": "Beer and Sons",
+    "type": "visa-electron",
+    "remark": "Disp fx of glenoid cavity of scapula, right shoulder, init",
+    "amount": "$4725.35",
+    "username": "Desiree Romeuf"
+  },
+  {
+    "id": 178,
+    "date": "2/28/2023",
+    "showroom": "Herman-Johns",
+    "type": "diners-club-enroute",
+    "remark": "Maternal care for other malpresentation of fetus, fetus 4",
+    "amount": "$6826.65",
+    "username": "Dietrich Bache"
+  },
+  {
+    "id": 179,
+    "date": "3/4/2023",
+    "showroom": "Wiza LLC",
+    "type": "diners-club-enroute",
+    "remark": "Perst migrn aura w/o cereb infrc, not ntrct, w/o stat migr",
+    "amount": "$9073.61",
+    "username": "Zitella Leyden"
+  },
+  {
+    "id": 180,
+    "date": "11/22/2023",
+    "showroom": "Lindgren Inc",
+    "type": "switch",
+    "remark": "Unspecified sprain of left index finger, initial encounter",
+    "amount": "$8363.96",
+    "username": "Pyotr Gaddas"
+  },
+  {
+    "id": 181,
+    "date": "4/28/2023",
+    "showroom": "Kuvalis and Sons",
+    "type": "switch",
+    "remark": "Sltr-haris Type I physl fx low end humer, l arm, 7thP",
+    "amount": "$5828.66",
+    "username": "Rosaleen Yarker"
+  },
+  {
+    "id": 182,
+    "date": "11/30/2023",
+    "showroom": "Shanahan Group",
+    "type": "jcb",
+    "remark": "Arthropathy following intestinal bypass, left shoulder",
+    "amount": "$5225.55",
+    "username": "Tess Ayre"
+  },
+  {
+    "id": 183,
+    "date": "4/6/2023",
+    "showroom": "Upton, Keeling and Fritsch",
+    "type": "jcb",
+    "remark": "Poisoning by unsp antieplptc and sed-hypntc drugs, self-harm",
+    "amount": "$8337.25",
+    "username": "Cristin Lifton"
+  },
+  {
+    "id": 184,
+    "date": "12/23/2023",
+    "showroom": "Johnston and Sons",
+    "type": "maestro",
+    "remark": "Diab due to undrl cond w diab prph angiopath w/o gangrene",
+    "amount": "$2536.92",
+    "username": "Jobye Halifax"
+  },
+  {
+    "id": 185,
+    "date": "11/4/2023",
+    "showroom": "Green Group",
+    "type": "jcb",
+    "remark": "Chronic lacrimal mucocele",
+    "amount": "$5366.76",
+    "username": "Nerissa Chopping"
+  },
+  {
+    "id": 186,
+    "date": "10/7/2023",
+    "showroom": "Thiel Inc",
+    "type": "laser",
+    "remark": "Subluxation of distal end of unspecified ulna, sequela",
+    "amount": "$1477.47",
+    "username": "Olympie Loffel"
+  },
+  {
+    "id": 187,
+    "date": "5/22/2023",
+    "showroom": "Daniel-Ankunding",
+    "type": "jcb",
+    "remark": "Cyclotropia, right eye",
+    "amount": "$5929.34",
+    "username": "Rodd Qualtro"
+  },
+  {
+    "id": 188,
+    "date": "9/16/2023",
+    "showroom": "White-Cronin",
+    "type": "jcb",
+    "remark": "Other and unspecified dermatitis",
+    "amount": "$8343.48",
+    "username": "Carmelita Aspy"
+  },
+  {
+    "id": 189,
+    "date": "1/23/2023",
+    "showroom": "Bernier, Krajcik and Mueller",
+    "type": "mastercard",
+    "remark": "Corros 2nd deg mul sites of unsp lower limb, except ank/ft",
+    "amount": "$6273.42",
+    "username": "Shay Jaggar"
+  },
+  {
+    "id": 190,
+    "date": "6/28/2023",
+    "showroom": "Graham-Champlin",
+    "type": "switch",
+    "remark": "Nondisp transverse fx shaft of humer, unsp arm, 7thB",
+    "amount": "$3910.08",
+    "username": "Marven Bisseker"
+  },
+  {
+    "id": 191,
+    "date": "9/12/2023",
+    "showroom": "Bechtelar Inc",
+    "type": "jcb",
+    "remark": "Unspecified fracture of shaft of right ulna",
+    "amount": "$2522.97",
+    "username": "Odelia Gavrielli"
+  },
+  {
+    "id": 192,
+    "date": "5/24/2023",
+    "showroom": "Tremblay-Thiel",
+    "type": "laser",
+    "remark": "Nondisp fx of first metatarsal bone, right foot, sequela",
+    "amount": "$1729.90",
+    "username": "Pierrette Gallacher"
+  },
+  {
+    "id": 193,
+    "date": "12/28/2023",
+    "showroom": "Jenkins, Hintz and Deckow",
+    "type": "jcb",
+    "remark": "Nondisp fx of l ulna styloid pro, 7thD",
+    "amount": "$902.30",
+    "username": "Ceciley Kittoe"
+  },
+  {
+    "id": 194,
+    "date": "2/28/2023",
+    "showroom": "Hane and Sons",
+    "type": "jcb",
+    "remark": "Explosion and rupture of boiler, sequela",
+    "amount": "$2262.98",
+    "username": "Devora Justham"
+  },
+  {
+    "id": 195,
+    "date": "6/10/2023",
+    "showroom": "Rippin Inc",
+    "type": "visa-electron",
+    "remark": "Neoplasm of uncertain behavior of carotid body",
+    "amount": "$7905.98",
+    "username": "Jacinthe McRobert"
+  },
+  {
+    "id": 196,
+    "date": "4/30/2023",
+    "showroom": "Heidenreich-Stroman",
+    "type": "jcb",
+    "remark": "Bus as the place of occurrence of the external cause",
+    "amount": "$1277.42",
+    "username": "Cassandra Beacock"
+  },
+  {
+    "id": 197,
+    "date": "4/10/2023",
+    "showroom": "Emmerich-Waters",
+    "type": "diners-club-carte-blanche",
+    "remark": "Disp fx of lateral end l clavicle, subs for fx w routn heal",
+    "amount": "$3144.26",
+    "username": "Martina McClinton"
+  },
+  {
+    "id": 198,
+    "date": "11/12/2023",
+    "showroom": "Mohr Inc",
+    "type": "jcb",
+    "remark": "Unsp complication of unsp transplanted organ and tissue",
+    "amount": "$7413.46",
+    "username": "Melosa Bullivent"
+  },
+  {
+    "id": 199,
+    "date": "12/26/2023",
+    "showroom": "Harvey, Steuber and Parisian",
+    "type": "mastercard",
+    "remark": "Sltr-haris Type III physl fx upr end r tibia, 7thK",
+    "amount": "$9686.88",
+    "username": "Irina Barff"
+  },
+  {
+    "id": 200,
+    "date": "8/21/2023",
+    "showroom": "Kulas and Sons",
+    "type": "jcb",
+    "remark": "Stress fracture, right fibula",
+    "amount": "$6466.93",
+    "username": "Lianne Napper"
+  }
+]

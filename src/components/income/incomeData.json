@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "date": "6/11/2023",
+    "showroom": "Goyette-Mann",
+    "field_income": "Consumer Services",
+    "description": "Chronic gout due to renal impairment, right shoulder, w toph",
+    "amount": "$3505.88",
+    "income_by": "Alejandrina O'Cassidy"
+  },
+  {
+    "id": 2,
+    "date": "3/16/2023",
+    "showroom": "O'Connell-Altenwerth",
+    "field_income": "Health Care",
+    "description": "Coronary angioplasty status",
+    "amount": "$3764.43",
+    "income_by": "Arel Ivashchenko"
+  },
+  {
+    "id": 3,
+    "date": "1/31/2023",
+    "showroom": "Mann, Blick and Stark",
+    "field_income": "Miscellaneous",
+    "description": "Osteonecrosis due to drugs, unspecified hand",
+    "amount": "$1249.69",
+    "income_by": "Levon Hallor"
+  },
+  {
+    "id": 4,
+    "date": "11/11/2023",
+    "showroom": "Crist-Bayer",
+    "field_income": "Health Care",
+    "description": "Adult psychological abuse, suspected, initial encounter",
+    "amount": "$7583.61",
+    "income_by": "Alan Eastam"
+  },
+  {
+    "id": 5,
+    "date": "11/19/2023",
+    "showroom": "Hilpert, Rice and Bechtelar",
+    "field_income": "Public Utilities",
+    "description": "Unilateral femoral hernia, without obstruction or gangrene",
+    "amount": "$7640.48",
+    "income_by": "Reynard Snyder"
+  },
+  {
+    "id": 6,
+    "date": "6/24/2023",
+    "showroom": "Lowe, Brakus and Tremblay",
+    "field_income": "Finance",
+    "description": "Accidental discharge of airgun, sequela",
+    "amount": "$6974.94",
+    "income_by": "Millisent Henrie"
+  },
+  {
+    "id": 7,
+    "date": "10/14/2023",
+    "showroom": "Deckow-Bradtke",
+    "field_income": "Consumer Non-Durables",
+    "description": "Accidental pnctr & lac of the spleen during a procedure",
+    "amount": "$2244.27",
+    "income_by": "Dianemarie Eyckelberg"
+  },
+  {
+    "id": 8,
+    "date": "8/9/2023",
+    "showroom": "Morissette Inc",
+    "field_income": "Technology",
+    "description": "Displaced spiral fracture of shaft of radius, right arm",
+    "amount": "$6869.85",
+    "income_by": "Dorie Waddicor"
+  },
+  {
+    "id": 9,
+    "date": "4/4/2023",
+    "showroom": "Kiehn, Keeling and Rutherford",
+    "field_income": "Consumer Non-Durables",
+    "description": "Displ longitud fx l patella, 7thQ",
+    "amount": "$9210.10",
+    "income_by": "Kalinda Hulcoop"
+  },
+  {
+    "id": 10,
+    "date": "12/28/2023",
+    "showroom": "Bradtke and Sons",
+    "field_income": "Technology",
+    "description": "Nondisp oblique fracture of shaft of left radius, sequela",
+    "amount": "$5719.86",
+    "income_by": "Stearn Kainz"
+  },
+  {
+    "id": 11,
+    "date": "1/31/2023",
+    "showroom": "Swaniawski, Kiehn and DuBuque",
+    "field_income": "Technology",
+    "description": "Burn of first degree of unspecified thumb (nail), sequela",
+    "amount": "$5516.62",
+    "income_by": "Wernher Bramsom"
+  },
+  {
+    "id": 12,
+    "date": "4/16/2023",
+    "showroom": "Kuvalis, Stracke and Schaden",
+    "field_income": "Health Care",
+    "description": "Postdysenteric arthropathy, hip",
+    "amount": "$3658.10",
+    "income_by": "Bernard Korlat"
+  },
+  {
+    "id": 13,
+    "date": "1/27/2023",
+    "showroom": "Borer-Johns",
+    "field_income": "Energy",
+    "description": "Psychomotor deficit",
+    "amount": "$3112.22",
+    "income_by": "Aprilette Vaulkhard"
+  },
+  {
+    "id": 14,
+    "date": "1/16/2024",
+    "showroom": "Homenick Group",
+    "field_income": "Consumer Services",
+    "description": "Lacrimal cyst, unspecified lacrimal gland",
+    "amount": "$9007.30",
+    "income_by": "Gianina Bettison"
+  },
+  {
+    "id": 15,
+    "date": "3/24/2023",
+    "showroom": "Murray, Toy and Howe",
+    "field_income": "n/a",
+    "description": "Glaucoma secondary to drugs, bilateral, moderate stage",
+    "amount": "$902.52",
+    "income_by": "Zandra Berrick"
+  },
+  {
+    "id": 16,
+    "date": "10/8/2023",
+    "showroom": "Feeney Inc",
+    "field_income": "n/a",
+    "description": "Puncture wound with foreign body, unspecified thigh, sequela",
+    "amount": "$615.32",
+    "income_by": "Guntar Tommei"
+  },
+  {
+    "id": 17,
+    "date": "4/11/2023",
+    "showroom": "Cormier LLC",
+    "field_income": "n/a",
+    "description": "Disp fx of med condyle of unsp tibia, 7thE",
+    "amount": "$1909.50",
+    "income_by": "Faunie Livesey"
+  },
+  {
+    "id": 18,
+    "date": "5/12/2023",
+    "showroom": "Kunde, King and Bartell",
+    "field_income": "Public Utilities",
+    "description": "Infection of bladder following delivery",
+    "amount": "$1349.16",
+    "income_by": "Madge Caple"
+  },
+  {
+    "id": 19,
+    "date": "12/25/2023",
+    "showroom": "Dare-Lueilwitz",
+    "field_income": "Finance",
+    "description": "Central cord syndrome at C4, init",
+    "amount": "$7100.20",
+    "income_by": "Amabelle Bruckental"
+  },
+  {
+    "id": 20,
+    "date": "6/12/2023",
+    "showroom": "Frami and Sons",
+    "field_income": "Technology",
+    "description": "Nonspecific reactive hepatitis",
+    "amount": "$5269.85",
+    "income_by": "Gaile Le Provest"
+  },
+  {
+    "id": 21,
+    "date": "8/31/2023",
+    "showroom": "Walker-Olson",
+    "field_income": "n/a",
+    "description": "Pnctr w/o fb of r little finger w damage to nail, subs",
+    "amount": "$5603.36",
+    "income_by": "Timothea Seid"
+  },
+  {
+    "id": 22,
+    "date": "6/20/2023",
+    "showroom": "Shanahan-Nikolaus",
+    "field_income": "Basic Industries",
+    "description": "Unspecified injury of axillary artery, left side, sequela",
+    "amount": "$7903.58",
+    "income_by": "Quintana Brantzen"
+  },
+  {
+    "id": 23,
+    "date": "9/15/2023",
+    "showroom": "Spencer-Daugherty",
+    "field_income": "n/a",
+    "description": "Aqueous misdirection, right eye",
+    "amount": "$1990.12",
+    "income_by": "Cristin Pilbury"
+  },
+  {
+    "id": 24,
+    "date": "6/27/2023",
+    "showroom": "Kshlerin, Renner and Ward",
+    "field_income": "Consumer Non-Durables",
+    "description": "Nondisp commnt fx shaft of l femr, 7thE",
+    "amount": "$4850.19",
+    "income_by": "Mandie Maleby"
+  },
+  {
+    "id": 25,
+    "date": "4/3/2023",
+    "showroom": "Altenwerth-Fisher",
+    "field_income": "n/a",
+    "description": "Varicos vn unsp low extrm w ulc of thigh and inflammation",
+    "amount": "$3025.93",
+    "income_by": "Lebbie Spur"
+  },
+  {
+    "id": 26,
+    "date": "10/26/2023",
+    "showroom": "Johns, Wiza and Kuphal",
+    "field_income": "Energy",
+    "description": "Colles' fracture of unsp radius, subs for clos fx w nonunion",
+    "amount": "$2521.37",
+    "income_by": "Siegfried Janse"
+  },
+  {
+    "id": 27,
+    "date": "7/5/2023",
+    "showroom": "Altenwerth-Tromp",
+    "field_income": "n/a",
+    "description": "Corrosion of unspecified degree of left palm, sequela",
+    "amount": "$9256.96",
+    "income_by": "Brandice Kleinmann"
+  },
+  {
+    "id": 28,
+    "date": "10/2/2023",
+    "showroom": "Schiller, Gottlieb and Rutherford",
+    "field_income": "Consumer Services",
+    "description": "Pnctr w/o foreign body of eyelid and periocular area",
+    "amount": "$9005.06",
+    "income_by": "Stephi Behrendsen"
+  },
+  {
+    "id": 29,
+    "date": "7/15/2023",
+    "showroom": "Gibson-Russel",
+    "field_income": "Finance",
+    "description": "Lobular carcinoma in situ of left breast",
+    "amount": "$7867.27",
+    "income_by": "Loren Yashin"
+  },
+  {
+    "id": 30,
+    "date": "8/12/2023",
+    "showroom": "Runte and Sons",
+    "field_income": "Health Care",
+    "description": "Acute serous otitis media, recurrent, unspecified ear",
+    "amount": "$2655.05",
+    "income_by": "Brynn Cozzi"
+  },
+  {
+    "id": 31,
+    "date": "8/18/2023",
+    "showroom": "Padberg-Walker",
+    "field_income": "Consumer Services",
+    "description": "Oth fx third MC bone, right hand, subs for fx w nonunion",
+    "amount": "$3504.40",
+    "income_by": "Ford Norcott"
+  },
+  {
+    "id": 32,
+    "date": "5/25/2023",
+    "showroom": "Lebsack-Walsh",
+    "field_income": "n/a",
+    "description": "Other rickettsioses",
+    "amount": "$6407.23",
+    "income_by": "Liv Chansonnau"
+  },
+  {
+    "id": 33,
+    "date": "11/9/2023",
+    "showroom": "Denesik, Hansen and Lebsack",
+    "field_income": "Technology",
+    "description": "Burn of unspecified degree of right axilla, subs encntr",
+    "amount": "$1253.13",
+    "income_by": "Gwenore Healing"
+  },
+  {
+    "id": 34,
+    "date": "2/3/2023",
+    "showroom": "Harris, Mertz and O'Keefe",
+    "field_income": "Capital Goods",
+    "description": "Oth fx third metacarpal bone, left hand, init for opn fx",
+    "amount": "$1132.28",
+    "income_by": "Raddie Iacobucci"
+  },
+  {
+    "id": 35,
+    "date": "11/22/2023",
+    "showroom": "Wehner, Wunsch and Streich",
+    "field_income": "n/a",
+    "description": "Accident to, on or involving ice yacht, initial encounter",
+    "amount": "$2743.22",
+    "income_by": "Erika Slocomb"
+  },
+  {
+    "id": 36,
+    "date": "6/11/2023",
+    "showroom": "Murazik-Mayer",
+    "field_income": "Energy",
+    "description": "Car passenger injured in clsn w nonmtr vehicle nontraf, subs",
+    "amount": "$7160.36",
+    "income_by": "Benn Hornung"
+  },
+  {
+    "id": 37,
+    "date": "8/3/2023",
+    "showroom": "Leuschke Inc",
+    "field_income": "n/a",
+    "description": "Chondritis of external ear, unspecified ear",
+    "amount": "$5396.24",
+    "income_by": "Marchelle Dunford"
+  },
+  {
+    "id": 38,
+    "date": "12/5/2023",
+    "showroom": "Wintheiser, Koss and Marvin",
+    "field_income": "Technology",
+    "description": "Toxic effect of unsp noxious sub eaten as food, acc, subs",
+    "amount": "$7945.97",
+    "income_by": "Peg Mulvin"
+  },
+  {
+    "id": 39,
+    "date": "6/4/2023",
+    "showroom": "Harvey-Schinner",
+    "field_income": "Energy",
+    "description": "Complete traumatic amp of two or more unsp lesser toes, subs",
+    "amount": "$2861.38",
+    "income_by": "Rodrick Witz"
+  },
+  {
+    "id": 40,
+    "date": "9/25/2023",
+    "showroom": "Oberbrunner Group",
+    "field_income": "Finance",
+    "description": "Laceration of fallopian tube, bilateral, subs encntr",
+    "amount": "$6575.38",
+    "income_by": "Wainwright Hacksby"
+  },
+  {
+    "id": 41,
+    "date": "4/21/2023",
+    "showroom": "Brekke-Metz",
+    "field_income": "Consumer Services",
+    "description": "Unspecified injury of right renal vein, initial encounter",
+    "amount": "$2561.43",
+    "income_by": "Jemie Dahlen"
+  },
+  {
+    "id": 42,
+    "date": "9/13/2023",
+    "showroom": "Klocko Inc",
+    "field_income": "Health Care",
+    "description": "Tuberculosis of other sites",
+    "amount": "$3856.32",
+    "income_by": "Willis Mingus"
+  },
+  {
+    "id": 43,
+    "date": "2/26/2023",
+    "showroom": "Ledner, Koss and Shanahan",
+    "field_income": "Health Care",
+    "description": "Strain of flexor musc/fasc/tend unsp finger at wrs/hnd lv",
+    "amount": "$4047.27",
+    "income_by": "Phil Kennealy"
+  },
+  {
+    "id": 44,
+    "date": "11/6/2023",
+    "showroom": "Lubowitz-Jast",
+    "field_income": "Technology",
+    "description": "Miscellaneous gen/plast-surg devices assoc w incdt, NEC",
+    "amount": "$8176.38",
+    "income_by": "Julianna Gilhooley"
+  },
+  {
+    "id": 45,
+    "date": "9/2/2023",
+    "showroom": "White LLC",
+    "field_income": "n/a",
+    "description": "Ulnar collateral ligament sprain of left elbow, subs encntr",
+    "amount": "$6403.91",
+    "income_by": "Saw Jessopp"
+  },
+  {
+    "id": 46,
+    "date": "4/25/2023",
+    "showroom": "Haley and Sons",
+    "field_income": "Consumer Services",
+    "description": "Collapsed vertebra, NEC, site unsp, subs for fx w delay heal",
+    "amount": "$2324.06",
+    "income_by": "Edward Lightbody"
+  },
+  {
+    "id": 47,
+    "date": "7/20/2023",
+    "showroom": "Renner LLC",
+    "field_income": "Finance",
+    "description": "Aphakia, left eye",
+    "amount": "$5960.43",
+    "income_by": "Daniel Elbourn"
+  },
+  {
+    "id": 48,
+    "date": "5/27/2023",
+    "showroom": "Koelpin, Lubowitz and Abernathy",
+    "field_income": "Health Care",
+    "description": "Poisoning by unspecified general anesthetics, assault",
+    "amount": "$3091.60",
+    "income_by": "Lowe O'Day"
+  },
+  {
+    "id": 49,
+    "date": "4/21/2023",
+    "showroom": "Bartoletti, Langosh and Keeling",
+    "field_income": "n/a",
+    "description": "Toxic effect of venom of centipedes and venomous millipedes",
+    "amount": "$9346.11",
+    "income_by": "Kippy Gumbrell"
+  },
+  {
+    "id": 50,
+    "date": "8/30/2023",
+    "showroom": "Labadie-Fritsch",
+    "field_income": "Health Care",
+    "description": "Chronic periodontitis, generalized, moderate",
+    "amount": "$8087.69",
+    "income_by": "Hillie Files"
+  },
+  {
+    "id": 51,
+    "date": "4/24/2023",
+    "showroom": "Wolff LLC",
+    "field_income": "n/a",
+    "description": "Pasngr in 3-whl mv inj in clsn w rail trn/veh nontraf, init",
+    "amount": "$5804.40",
+    "income_by": "Kacy Brettell"
+  },
+  {
+    "id": 52,
+    "date": "4/8/2023",
+    "showroom": "Dickens, Johnston and Rippin",
+    "field_income": "n/a",
+    "description": "Abnormal hematolog finding on antenatal screening of mother",
+    "amount": "$8624.81",
+    "income_by": "Ferdie Honack"
+  },
+  {
+    "id": 53,
+    "date": "10/17/2023",
+    "showroom": "Roob-Ledner",
+    "field_income": "Energy",
+    "description": "Neoplasm of uncertain behavior of right testis",
+    "amount": "$7161.24",
+    "income_by": "Randolph Eggers"
+  },
+  {
+    "id": 54,
+    "date": "12/6/2023",
+    "showroom": "Altenwerth-Dibbert",
+    "field_income": "Health Care",
+    "description": "Spontaneous ecchymoses",
+    "amount": "$9552.49",
+    "income_by": "Cathyleen Pallant"
+  },
+  {
+    "id": 55,
+    "date": "7/25/2023",
+    "showroom": "Mills, Terry and Pagac",
+    "field_income": "n/a",
+    "description": "Corrosion of third degree of right ear, subsequent encounter",
+    "amount": "$1899.93",
+    "income_by": "Nerti Houston"
+  },
+  {
+    "id": 56,
+    "date": "4/29/2023",
+    "showroom": "Brakus-Doyle",
+    "field_income": "Capital Goods",
+    "description": "Nondisplaced pilon fracture of right tibia",
+    "amount": "$1352.52",
+    "income_by": "Elsbeth Cayton"
+  },
+  {
+    "id": 57,
+    "date": "1/23/2023",
+    "showroom": "Spinka LLC",
+    "field_income": "Basic Industries",
+    "description": "Malignant neoplasm of soft palate",
+    "amount": "$996.90",
+    "income_by": "Micheil Sibly"
+  },
+  {
+    "id": 58,
+    "date": "1/13/2024",
+    "showroom": "Schumm and Sons",
+    "field_income": "Miscellaneous",
+    "description": "Subluxation of unsp interphaln joint of r idx fngr, subs",
+    "amount": "$697.93",
+    "income_by": "Pooh Edis"
+  },
+  {
+    "id": 59,
+    "date": "10/24/2023",
+    "showroom": "Morissette, Lang and Jacobi",
+    "field_income": "Consumer Durables",
+    "description": "Algoneurodystrophy, unspecified lower leg",
+    "amount": "$1930.65",
+    "income_by": "Bailey Neaverson"
+  },
+  {
+    "id": 60,
+    "date": "11/4/2023",
+    "showroom": "Mueller-Johnson",
+    "field_income": "n/a",
+    "description": "Oth injury of unspecified carotid artery, init encntr",
+    "amount": "$708.63",
+    "income_by": "Gabriello Grogona"
+  },
+  {
+    "id": 61,
+    "date": "8/4/2023",
+    "showroom": "Kreiger, Bartell and Reichert",
+    "field_income": "n/a",
+    "description": "Occup of hv veh inj in clsn w rail trn/veh in traf, sequela",
+    "amount": "$738.32",
+    "income_by": "Sax Suggey"
+  },
+  {
+    "id": 62,
+    "date": "8/11/2023",
+    "showroom": "Watsica, Bogan and Bergnaum",
+    "field_income": "n/a",
+    "description": "Displ seg fx shaft of l tibia, subs for clos fx w delay heal",
+    "amount": "$9620.29",
+    "income_by": "Micki Baude"
+  },
+  {
+    "id": 63,
+    "date": "9/21/2023",
+    "showroom": "Gusikowski-Grant",
+    "field_income": "Health Care",
+    "description": "Unspecified fracture of left foot",
+    "amount": "$6074.87",
+    "income_by": "Aundrea Hansill"
+  },
+  {
+    "id": 64,
+    "date": "12/13/2023",
+    "showroom": "Klein, Murray and Swaniawski",
+    "field_income": "n/a",
+    "description": "Unsp injury of deep palmar arch of left hand, init encntr",
+    "amount": "$6254.33",
+    "income_by": "Tony Growy"
+  },
+  {
+    "id": 65,
+    "date": "1/6/2024",
+    "showroom": "Emmerich and Sons",
+    "field_income": "Health Care",
+    "description": "Pre-exist hyp heart and chr kidney dis comp preg, unsp tri",
+    "amount": "$5001.14",
+    "income_by": "Rudy Patullo"
+  },
+  {
+    "id": 66,
+    "date": "10/18/2023",
+    "showroom": "Reichel-Hayes",
+    "field_income": "Health Care",
+    "description": "Disp fx of med phalanx of left less toe(s), init for opn fx",
+    "amount": "$4880.34",
+    "income_by": "Orlando Reveland"
+  },
+  {
+    "id": 67,
+    "date": "3/26/2023",
+    "showroom": "Sauer, Douglas and Hand",
+    "field_income": "Basic Industries",
+    "description": "Unsp soft tissue disord rel to use/pressure, right ank/ft",
+    "amount": "$2641.01",
+    "income_by": "Estell Gilson"
+  },
+  {
+    "id": 68,
+    "date": "6/24/2023",
+    "showroom": "Mitchell-Jenkins",
+    "field_income": "Basic Industries",
+    "description": "Sltr-haris Type I physeal fx lower end of r femur, sequela",
+    "amount": "$9329.56",
+    "income_by": "Carley Riquet"
+  },
+  {
+    "id": 69,
+    "date": "9/11/2023",
+    "showroom": "Hackett, Collins and Hudson",
+    "field_income": "n/a",
+    "description": "Periprosth fx around unsp internal prosth joint, sequela",
+    "amount": "$1805.42",
+    "income_by": "Fidela Scaddon"
+  },
+  {
+    "id": 70,
+    "date": "8/22/2023",
+    "showroom": "Von Inc",
+    "field_income": "Finance",
+    "description": "Inj oth blood vessels at shldr/up arm, left arm, subs",
+    "amount": "$5082.56",
+    "income_by": "Aldric Ching"
+  },
+  {
+    "id": 71,
+    "date": "5/6/2023",
+    "showroom": "Wisoky Inc",
+    "field_income": "n/a",
+    "description": "Displaced fracture of medial wall of unspecified acetabulum",
+    "amount": "$2039.24",
+    "income_by": "Anastasia Wrack"
+  },
+  {
+    "id": 72,
+    "date": "11/20/2023",
+    "showroom": "Quigley Group",
+    "field_income": "Finance",
+    "description": "Other postprocedural shock, subsequent encounter",
+    "amount": "$9341.55",
+    "income_by": "Edgar Titterrell"
+  },
+  {
+    "id": 73,
+    "date": "1/8/2024",
+    "showroom": "Schamberger-Carroll",
+    "field_income": "n/a",
+    "description": "Occup of bus injured in collision w nonmtr vehicle in traf",
+    "amount": "$7820.47",
+    "income_by": "Ethelin Vedstra"
+  },
+  {
+    "id": 74,
+    "date": "2/6/2023",
+    "showroom": "Tillman-Kunde",
+    "field_income": "Consumer Services",
+    "description": "Aseptic peritonitis due to foreign sub acc left dur proc",
+    "amount": "$853.71",
+    "income_by": "Aurora Southerell"
+  },
+  {
+    "id": 75,
+    "date": "2/15/2023",
+    "showroom": "Ernser-Terry",
+    "field_income": "Finance",
+    "description": "Oth fx shaft of rad, r arm, 7thN",
+    "amount": "$1384.96",
+    "income_by": "Muriel Parrot"
+  },
+  {
+    "id": 76,
+    "date": "6/7/2023",
+    "showroom": "Jakubowski, Ebert and Reinger",
+    "field_income": "Finance",
+    "description": "Oligohydramnios, second trimester, fetus 2",
+    "amount": "$9427.61",
+    "income_by": "Donny Laminman"
+  },
+  {
+    "id": 77,
+    "date": "8/22/2023",
+    "showroom": "Fay Group",
+    "field_income": "n/a",
+    "description": "Sltr-haris Type III physeal fx unspecified metatarsal, init",
+    "amount": "$1266.72",
+    "income_by": "Hamilton Yelding"
+  },
+  {
+    "id": 78,
+    "date": "11/23/2023",
+    "showroom": "Feil, Steuber and Barton",
+    "field_income": "Technology",
+    "description": "Spontaneous rupture of flexor tendons, right forearm",
+    "amount": "$6366.29",
+    "income_by": "Reiko Coale"
+  },
+  {
+    "id": 79,
+    "date": "1/30/2023",
+    "showroom": "Pollich-Johnson",
+    "field_income": "Technology",
+    "description": "Antepartum hemorrhage with afibrinogenemia, first trimester",
+    "amount": "$5708.49",
+    "income_by": "Coop Healings"
+  },
+  {
+    "id": 80,
+    "date": "10/20/2023",
+    "showroom": "Bashirian-Yost",
+    "field_income": "Technology",
+    "description": "Counseling related to patient's sexual behavior and orientn",
+    "amount": "$8863.13",
+    "income_by": "Michelina Larrett"
+  },
+  {
+    "id": 81,
+    "date": "11/9/2023",
+    "showroom": "Flatley, Oberbrunner and Jacobi",
+    "field_income": "Transportation",
+    "description": "Candidiasis of vulva and vagina",
+    "amount": "$7528.98",
+    "income_by": "Costanza Paolino"
+  },
+  {
+    "id": 82,
+    "date": "1/7/2024",
+    "showroom": "Deckow, Romaguera and Daniel",
+    "field_income": "Consumer Services",
+    "description": "Lacerat abd wall w fb, periumb rgn w/o penet perit cav, subs",
+    "amount": "$5520.49",
+    "income_by": "Ivie Layhe"
+  },
+  {
+    "id": 83,
+    "date": "2/1/2023",
+    "showroom": "Heaney, Herzog and Goyette",
+    "field_income": "n/a",
+    "description": "Stress fracture, ankle, foot and toes",
+    "amount": "$3285.93",
+    "income_by": "Otes Jiroutka"
+  },
+  {
+    "id": 84,
+    "date": "12/7/2023",
+    "showroom": "Doyle Group",
+    "field_income": "Finance",
+    "description": "Oth specific joint derangements of unsp hand, NEC",
+    "amount": "$6202.24",
+    "income_by": "Ritchie Pordall"
+  },
+  {
+    "id": 85,
+    "date": "5/10/2023",
+    "showroom": "Abbott-Kuhn",
+    "field_income": "Health Care",
+    "description": "Unspecified sprain of other and unspecified finger(s)",
+    "amount": "$1597.48",
+    "income_by": "Mavis Stanworth"
+  },
+  {
+    "id": 86,
+    "date": "12/30/2023",
+    "showroom": "Lind Group",
+    "field_income": "Transportation",
+    "description": "Abrasion of foot",
+    "amount": "$5131.17",
+    "income_by": "Clywd Seed"
+  },
+  {
+    "id": 87,
+    "date": "4/25/2023",
+    "showroom": "Dickinson, Miller and Feest",
+    "field_income": "Technology",
+    "description": "Obst due to fb acc left in body fol oth procedure, init",
+    "amount": "$4456.08",
+    "income_by": "Orren Haig"
+  },
+  {
+    "id": 88,
+    "date": "9/29/2023",
+    "showroom": "Nader, Willms and Macejkovic",
+    "field_income": "Consumer Services",
+    "description": "Poisoning by ganglionic blocking drugs, undetermined, subs",
+    "amount": "$3870.16",
+    "income_by": "Maia Dallander"
+  },
+  {
+    "id": 89,
+    "date": "4/17/2023",
+    "showroom": "Steuber-Ortiz",
+    "field_income": "Health Care",
+    "description": "Abscess of bursa, hip",
+    "amount": "$4626.03",
+    "income_by": "Tate Millson"
+  },
+  {
+    "id": 90,
+    "date": "12/23/2023",
+    "showroom": "Ullrich Inc",
+    "field_income": "Consumer Non-Durables",
+    "description": "Displ simp suprcndl fx w/o intrcndl fx l humer, 7thB",
+    "amount": "$8088.85",
+    "income_by": "Joell Milverton"
+  },
+  {
+    "id": 91,
+    "date": "2/4/2023",
+    "showroom": "Murazik, Reynolds and Grant",
+    "field_income": "n/a",
+    "description": "Unsp inj unsp blood vess at lower leg level, unsp leg, init",
+    "amount": "$1087.47",
+    "income_by": "Magdaia Murrie"
+  },
+  {
+    "id": 92,
+    "date": "12/12/2023",
+    "showroom": "Leannon LLC",
+    "field_income": "n/a",
+    "description": "Underdosing of other hormones and synthetic substitutes",
+    "amount": "$3503.81",
+    "income_by": "Siouxie Shaw"
+  },
+  {
+    "id": 93,
+    "date": "8/17/2023",
+    "showroom": "Goodwin Group",
+    "field_income": "n/a",
+    "description": "Gastric contents in larynx causing other injury, subs encntr",
+    "amount": "$909.87",
+    "income_by": "Akim Winsborrow"
+  },
+  {
+    "id": 94,
+    "date": "11/19/2023",
+    "showroom": "Russel, Kuhic and Kutch",
+    "field_income": "n/a",
+    "description": "Malignant carcinoid tumor of the rectum",
+    "amount": "$6540.75",
+    "income_by": "Malina Pherps"
+  },
+  {
+    "id": 95,
+    "date": "4/29/2023",
+    "showroom": "Jast, Streich and Bergstrom",
+    "field_income": "Basic Industries",
+    "description": "Unspecified fracture of right talus, sequela",
+    "amount": "$1434.09",
+    "income_by": "Marla Colgrave"
+  },
+  {
+    "id": 96,
+    "date": "2/20/2023",
+    "showroom": "Smith-Armstrong",
+    "field_income": "Consumer Services",
+    "description": "Displaced spiral fracture of shaft of ulna, unspecified arm",
+    "amount": "$9838.90",
+    "income_by": "Saunders Oakhill"
+  },
+  {
+    "id": 97,
+    "date": "6/1/2023",
+    "showroom": "Sporer-Lynch",
+    "field_income": "n/a",
+    "description": "Sedative, hypnotic or anxiolytic-related abuse",
+    "amount": "$5439.58",
+    "income_by": "Lancelot Dowley"
+  },
+  {
+    "id": 98,
+    "date": "3/16/2023",
+    "showroom": "Hamill Group",
+    "field_income": "Finance",
+    "description": "Toxic effect of cadmium and its compounds, accidental, subs",
+    "amount": "$1623.31",
+    "income_by": "Carry Tidbold"
+  },
+  {
+    "id": 99,
+    "date": "6/5/2023",
+    "showroom": "Heller LLC",
+    "field_income": "Health Care",
+    "description": "Corros 2nd deg mul sites of unsp lower limb, ex ank/ft, subs",
+    "amount": "$2195.02",
+    "income_by": "Kassie Dunne"
+  },
+  {
+    "id": 100,
+    "date": "11/11/2023",
+    "showroom": "Bins LLC",
+    "field_income": "Finance",
+    "description": "Congenital spondylolisthesis",
+    "amount": "$1310.46",
+    "income_by": "Gare Brusby"
+  },
+  {
+    "id": 101,
+    "date": "3/5/2023",
+    "showroom": "McClure-Kuphal",
+    "field_income": "n/a",
+    "description": "Other bursitis, not elsewhere classified",
+    "amount": "$5760.78",
+    "income_by": "Amalea Poulden"
+  },
+  {
+    "id": 102,
+    "date": "7/31/2023",
+    "showroom": "Beahan, Hermiston and Ritchie",
+    "field_income": "Health Care",
+    "description": "Unsp car occupant injured in collision w pedal cycle nontraf",
+    "amount": "$8803.33",
+    "income_by": "Orlan Bernaciak"
+  },
+  {
+    "id": 103,
+    "date": "6/29/2023",
+    "showroom": "Runolfsson-Dicki",
+    "field_income": "Technology",
+    "description": "Laceration without foreign body of left ear, subs encntr",
+    "amount": "$8891.53",
+    "income_by": "Marielle Freeman"
+  },
+  {
+    "id": 104,
+    "date": "9/14/2023",
+    "showroom": "Wolff Inc",
+    "field_income": "Finance",
+    "description": "Carcinoma in situ of right bronchus and lung",
+    "amount": "$2346.47",
+    "income_by": "Clyde Bunstone"
+  },
+  {
+    "id": 105,
+    "date": "3/29/2023",
+    "showroom": "Kemmer-Carter",
+    "field_income": "Basic Industries",
+    "description": "Ebola virus disease",
+    "amount": "$9025.04",
+    "income_by": "Drona Ciciari"
+  },
+  {
+    "id": 106,
+    "date": "12/21/2023",
+    "showroom": "Prohaska Inc",
+    "field_income": "Health Care",
+    "description": "Chronic respiratory failure",
+    "amount": "$1022.37",
+    "income_by": "Gery Eskriet"
+  },
+  {
+    "id": 107,
+    "date": "4/17/2023",
+    "showroom": "Hane and Sons",
+    "field_income": "Finance",
+    "description": "Displaced trimalleolar fracture of right lower leg, init",
+    "amount": "$9358.15",
+    "income_by": "Bartie Jeckells"
+  },
+  {
+    "id": 108,
+    "date": "6/4/2023",
+    "showroom": "Russel Group",
+    "field_income": "Finance",
+    "description": "Burn first degree of unsp mult fngr, not inc thumb, init",
+    "amount": "$6978.04",
+    "income_by": "Emerson Chadbourn"
+  },
+  {
+    "id": 109,
+    "date": "7/27/2023",
+    "showroom": "Shanahan-Lehner",
+    "field_income": "Consumer Durables",
+    "description": "Acute perichondritis of external ear, unspecified ear",
+    "amount": "$707.00",
+    "income_by": "Magdalene Po"
+  },
+  {
+    "id": 110,
+    "date": "8/28/2023",
+    "showroom": "Smitham, Jerde and Rempel",
+    "field_income": "Finance",
+    "description": "Vestibular neuronitis, unspecified ear",
+    "amount": "$1299.68",
+    "income_by": "Cindee Spridgen"
+  },
+  {
+    "id": 111,
+    "date": "7/24/2023",
+    "showroom": "Hessel LLC",
+    "field_income": "n/a",
+    "description": "Other intrapartum hemorrhage",
+    "amount": "$9828.69",
+    "income_by": "Bartolemo Bolley"
+  },
+  {
+    "id": 112,
+    "date": "1/24/2023",
+    "showroom": "Feest, Deckow and Wisoky",
+    "field_income": "Consumer Services",
+    "description": "Pnctr w foreign body of l mid finger w damage to nail, subs",
+    "amount": "$669.34",
+    "income_by": "Consuelo Richter"
+  },
+  {
+    "id": 113,
+    "date": "8/20/2023",
+    "showroom": "Moen-Conn",
+    "field_income": "Capital Goods",
+    "description": "Pasngr on bus injured in clsn w statnry object in traf, subs",
+    "amount": "$2226.81",
+    "income_by": "Becki Sherrocks"
+  },
+  {
+    "id": 114,
+    "date": "9/17/2023",
+    "showroom": "Lakin, Lesch and Hammes",
+    "field_income": "Consumer Services",
+    "description": "Accident to, on or involving cable-car, not on rails, subs",
+    "amount": "$9652.96",
+    "income_by": "Jake Mordue"
+  },
+  {
+    "id": 115,
+    "date": "8/7/2023",
+    "showroom": "Wisoky and Sons",
+    "field_income": "Miscellaneous",
+    "description": "Severely displaced Zone I fx sacrum, init for opn fx",
+    "amount": "$7917.52",
+    "income_by": "Myles Trott"
+  },
+  {
+    "id": 116,
+    "date": "1/5/2024",
+    "showroom": "Gutkowski Inc",
+    "field_income": "Technology",
+    "description": "Nondisp commnt fx unsp patella, 7thH",
+    "amount": "$8373.38",
+    "income_by": "Renaldo Fletcher"
+  },
+  {
+    "id": 117,
+    "date": "3/4/2023",
+    "showroom": "Maggio, Wunsch and Schaefer",
+    "field_income": "Consumer Services",
+    "description": "Flexion deformity, unspecified finger joints",
+    "amount": "$4073.93",
+    "income_by": "Lewes Klauber"
+  },
+  {
+    "id": 118,
+    "date": "5/10/2023",
+    "showroom": "Crist-Gerhold",
+    "field_income": "Finance",
+    "description": "Lacerat unsp musc/fasc/tend at shldr/up arm, unsp arm, init",
+    "amount": "$3962.01",
+    "income_by": "Dottie Batchellor"
+  },
+  {
+    "id": 119,
+    "date": "6/16/2023",
+    "showroom": "Walter and Sons",
+    "field_income": "n/a",
+    "description": "Burn of unspecified degree of unspecified thigh, sequela",
+    "amount": "$2631.74",
+    "income_by": "Saxe Drohane"
+  },
+  {
+    "id": 120,
+    "date": "8/21/2023",
+    "showroom": "Boyle, Herzog and Harber",
+    "field_income": "Energy",
+    "description": "Path fx in neopltc dis, unsp foot, subs for fx w delay heal",
+    "amount": "$1201.28",
+    "income_by": "Riane Wheble"
+  },
+  {
+    "id": 121,
+    "date": "4/13/2023",
+    "showroom": "Toy LLC",
+    "field_income": "n/a",
+    "description": "Injury of radial nerve at upper arm level, left arm",
+    "amount": "$8699.20",
+    "income_by": "Nettie Sproson"
+  },
+  {
+    "id": 122,
+    "date": "12/20/2023",
+    "showroom": "Hahn-Spencer",
+    "field_income": "n/a",
+    "description": "Rheu arthritis of left ank/ft w involv of organs and systems",
+    "amount": "$6318.86",
+    "income_by": "Kate Minihane"
+  },
+  {
+    "id": 123,
+    "date": "12/11/2023",
+    "showroom": "Carter LLC",
+    "field_income": "Health Care",
+    "description": "Other juvenile arthritis, left shoulder",
+    "amount": "$6715.97",
+    "income_by": "Bertine Husband"
+  },
+  {
+    "id": 124,
+    "date": "9/30/2023",
+    "showroom": "Kunde-Schiller",
+    "field_income": "Capital Goods",
+    "description": "Postprocedural pelvic peritoneal adhesions",
+    "amount": "$2896.89",
+    "income_by": "Brodie McMillan"
+  },
+  {
+    "id": 125,
+    "date": "9/21/2023",
+    "showroom": "Reichel and Sons",
+    "field_income": "Transportation",
+    "description": "Pnctr w/o fb of right lesser toe(s) w damage to nail",
+    "amount": "$2730.60",
+    "income_by": "Aurora Biggerstaff"
+  },
+  {
+    "id": 126,
+    "date": "1/12/2024",
+    "showroom": "Shanahan, Smitham and Kunde",
+    "field_income": "n/a",
+    "description": "Nondisp avulsion fracture of unsp ilium, init for opn fx",
+    "amount": "$3083.27",
+    "income_by": "Correy Strutt"
+  },
+  {
+    "id": 127,
+    "date": "6/22/2023",
+    "showroom": "Considine-White",
+    "field_income": "Consumer Services",
+    "description": "Bent bone of right ulna",
+    "amount": "$1615.67",
+    "income_by": "Cristina Leamon"
+  },
+  {
+    "id": 128,
+    "date": "9/26/2023",
+    "showroom": "Wisoky-Zboncak",
+    "field_income": "Consumer Durables",
+    "description": "Unsp injury of musc/fasc/tend triceps, left arm, init",
+    "amount": "$5183.36",
+    "income_by": "Kimble Posselt"
+  },
+  {
+    "id": 129,
+    "date": "10/24/2023",
+    "showroom": "Walter-Ebert",
+    "field_income": "Finance",
+    "description": "Burns of 90%/more of body surfc w 40-49% third degree burns",
+    "amount": "$9984.76",
+    "income_by": "Cheslie Belbin"
+  },
+  {
+    "id": 130,
+    "date": "9/29/2023",
+    "showroom": "White and Sons",
+    "field_income": "Technology",
+    "description": "Unstable burst fx T5-T6 vertebra, subs for fx w nonunion",
+    "amount": "$8030.63",
+    "income_by": "Kellen Freestone"
+  },
+  {
+    "id": 131,
+    "date": "12/11/2023",
+    "showroom": "Bednar, Beahan and Keeling",
+    "field_income": "n/a",
+    "description": "Pseudopapilledema of optic disc, unspecified eye",
+    "amount": "$4636.96",
+    "income_by": "Noak Manwell"
+  },
+  {
+    "id": 132,
+    "date": "5/1/2023",
+    "showroom": "Kessler, Conn and Schuppe",
+    "field_income": "n/a",
+    "description": "Injury of unspecified nerve at hip and thigh level, left leg",
+    "amount": "$702.69",
+    "income_by": "Culley Medcraft"
+  },
+  {
+    "id": 133,
+    "date": "7/21/2023",
+    "showroom": "Dicki and Sons",
+    "field_income": "Health Care",
+    "description": "Subluxation of right ankle joint, sequela",
+    "amount": "$3129.17",
+    "income_by": "Emmalee Reynoollds"
+  },
+  {
+    "id": 134,
+    "date": "9/20/2023",
+    "showroom": "Halvorson-Reynolds",
+    "field_income": "Finance",
+    "description": "Toxic effect of other mycotoxin food contaminants, assault",
+    "amount": "$4804.27",
+    "income_by": "Faulkner Simonitto"
+  },
+  {
+    "id": 135,
+    "date": "5/25/2023",
+    "showroom": "Leffler-Aufderhar",
+    "field_income": "Consumer Services",
+    "description": "Crushing injury of unspecified hip, sequela",
+    "amount": "$7663.66",
+    "income_by": "Jeanna Pawfoot"
+  },
+  {
+    "id": 136,
+    "date": "3/12/2023",
+    "showroom": "Johns, Runolfsson and Pacocha",
+    "field_income": "Consumer Services",
+    "description": "Late congenital cardiovascular syphilis",
+    "amount": "$522.37",
+    "income_by": "Lu Warlawe"
+  },
+  {
+    "id": 137,
+    "date": "10/1/2023",
+    "showroom": "Paucek-Sipes",
+    "field_income": "Basic Industries",
+    "description": "Inj cutan sensory nerve at ank/ft level, right leg, subs",
+    "amount": "$7271.74",
+    "income_by": "Gilligan Trundell"
+  },
+  {
+    "id": 138,
+    "date": "1/13/2024",
+    "showroom": "Denesik-Sanford",
+    "field_income": "Capital Goods",
+    "description": "ABO incompatibility w delayed hemolytic transfusion reaction",
+    "amount": "$3706.58",
+    "income_by": "Laurie Kaemena"
+  },
+  {
+    "id": 139,
+    "date": "3/18/2023",
+    "showroom": "Vandervort-Wolff",
+    "field_income": "Public Utilities",
+    "description": "Inj muscle, fascia and tendon of prt biceps, left arm, subs",
+    "amount": "$801.49",
+    "income_by": "Waldemar Gammack"
+  },
+  {
+    "id": 140,
+    "date": "11/16/2023",
+    "showroom": "Schamberger-Prosacco",
+    "field_income": "n/a",
+    "description": "Lac w/o fb of unsp bk wl of thorax w/o penet thor cav, subs",
+    "amount": "$6762.66",
+    "income_by": "Thorin Merrington"
+  },
+  {
+    "id": 141,
+    "date": "4/21/2023",
+    "showroom": "Schiller Group",
+    "field_income": "Consumer Services",
+    "description": "Displ artic fx head of unsp femr, 7thQ",
+    "amount": "$9006.78",
+    "income_by": "Spencer Bode"
+  },
+  {
+    "id": 142,
+    "date": "3/21/2023",
+    "showroom": "Morar and Sons",
+    "field_income": "Energy",
+    "description": "Passenger in 3-whl mv injured in collision w hv veh nontraf",
+    "amount": "$9433.18",
+    "income_by": "Jilly Buxton"
+  },
+  {
+    "id": 143,
+    "date": "4/20/2023",
+    "showroom": "Lehner LLC",
+    "field_income": "Basic Industries",
+    "description": "Puncture wound without foreign body of left buttock",
+    "amount": "$9731.08",
+    "income_by": "Malchy Newey"
+  },
+  {
+    "id": 144,
+    "date": "1/29/2023",
+    "showroom": "Hackett, Kessler and Schinner",
+    "field_income": "n/a",
+    "description": "Laceration w/o fb of r idx fngr w damage to nail, init",
+    "amount": "$5931.34",
+    "income_by": "Danell MacKey"
+  },
+  {
+    "id": 145,
+    "date": "7/1/2023",
+    "showroom": "Wintheiser-Weber",
+    "field_income": "n/a",
+    "description": "Gastric contents in larynx causing asphyxiation",
+    "amount": "$1485.29",
+    "income_by": "Aaren Tunsley"
+  },
+  {
+    "id": 146,
+    "date": "1/12/2024",
+    "showroom": "Ferry-Fisher",
+    "field_income": "Energy",
+    "description": "Toxic effect of unsp seafood, accidental, sequela",
+    "amount": "$8181.04",
+    "income_by": "Amity O'Loughlin"
+  },
+  {
+    "id": 147,
+    "date": "1/17/2024",
+    "showroom": "McDermott, Dach and Raynor",
+    "field_income": "Health Care",
+    "description": "Central corneal ulcer",
+    "amount": "$7890.03",
+    "income_by": "Desmond Graundisson"
+  },
+  {
+    "id": 148,
+    "date": "11/30/2023",
+    "showroom": "Bruen, Casper and Abbott",
+    "field_income": "Public Utilities",
+    "description": "Laceration w foreign body of left cheek and TMJ area, subs",
+    "amount": "$7315.02",
+    "income_by": "Clemmy Sudy"
+  },
+  {
+    "id": 149,
+    "date": "7/28/2023",
+    "showroom": "Jast, Jenkins and Beer",
+    "field_income": "Consumer Non-Durables",
+    "description": "Displ suprcndl fx w/o intrcndl extn lower end l femur, init",
+    "amount": "$3577.39",
+    "income_by": "Banky Cordall"
+  },
+  {
+    "id": 150,
+    "date": "5/5/2023",
+    "showroom": "Block Inc",
+    "field_income": "Consumer Services",
+    "description": "Foreign body in other parts of respiratory tract",
+    "amount": "$1376.70",
+    "income_by": "Mathian Carman"
+  },
+  {
+    "id": 151,
+    "date": "12/5/2023",
+    "showroom": "Davis and Sons",
+    "field_income": "Consumer Services",
+    "description": "Cholera, unspecified",
+    "amount": "$9360.20",
+    "income_by": "Sabine Cocksedge"
+  },
+  {
+    "id": 152,
+    "date": "3/29/2023",
+    "showroom": "Wiza-Bode",
+    "field_income": "Technology",
+    "description": "Drug-induced gout, unspecified elbow",
+    "amount": "$891.93",
+    "income_by": "Deanna Bonwell"
+  },
+  {
+    "id": 153,
+    "date": "5/10/2023",
+    "showroom": "Quitzon Inc",
+    "field_income": "n/a",
+    "description": "Breakdown (mechanical) of insulin pump, initial encounter",
+    "amount": "$3627.43",
+    "income_by": "Goraud Aprahamian"
+  },
+  {
+    "id": 154,
+    "date": "11/26/2023",
+    "showroom": "Rodriguez Inc",
+    "field_income": "Consumer Services",
+    "description": "Contus/lac left cerebrum w/o loss of consciousness, subs",
+    "amount": "$960.38",
+    "income_by": "Kali Mathews"
+  },
+  {
+    "id": 155,
+    "date": "4/24/2023",
+    "showroom": "Champlin-Schmeler",
+    "field_income": "n/a",
+    "description": "Unsp fracture of fifth lumbar vertebra, init for opn fx",
+    "amount": "$8089.56",
+    "income_by": "Dita Martinovic"
+  },
+  {
+    "id": 156,
+    "date": "5/3/2023",
+    "showroom": "Tillman Inc",
+    "field_income": "Finance",
+    "description": "Contus/lac/hem brnst w LOC w death due to oth cause bf consc",
+    "amount": "$555.94",
+    "income_by": "Bryn German"
+  },
+  {
+    "id": 157,
+    "date": "3/29/2023",
+    "showroom": "Rempel Group",
+    "field_income": "n/a",
+    "description": "Oth incomplete lesion at T11-T12, sequela",
+    "amount": "$2020.88",
+    "income_by": "Wylma Hamilton"
+  },
+  {
+    "id": 158,
+    "date": "1/11/2024",
+    "showroom": "Brakus, Lind and Schamberger",
+    "field_income": "Consumer Services",
+    "description": "Toxic eff of venom of African and Asian snake, undet, init",
+    "amount": "$1266.89",
+    "income_by": "Whitby Seeler"
+  },
+  {
+    "id": 159,
+    "date": "11/28/2023",
+    "showroom": "Tromp-Steuber",
+    "field_income": "Consumer Services",
+    "description": "Disp fx of dist phalanx of l mid fngr, 7thK",
+    "amount": "$7574.92",
+    "income_by": "Erica Klezmski"
+  },
+  {
+    "id": 160,
+    "date": "1/31/2023",
+    "showroom": "Kessler LLC",
+    "field_income": "Public Utilities",
+    "description": "Open bite, unspecified thigh",
+    "amount": "$4329.90",
+    "income_by": "Selig Shea"
+  },
+  {
+    "id": 161,
+    "date": "8/14/2023",
+    "showroom": "Trantow-Waelchi",
+    "field_income": "Public Utilities",
+    "description": "Unsp injury of radial art at wrs/hnd lv of unsp arm, sequela",
+    "amount": "$3426.14",
+    "income_by": "Shandie Titterton"
+  },
+  {
+    "id": 162,
+    "date": "2/18/2023",
+    "showroom": "Harvey-Rowe",
+    "field_income": "Energy",
+    "description": "Periprosth fx around internal prosth r elbow joint, subs",
+    "amount": "$2163.72",
+    "income_by": "Noel Goodwill"
+  },
+  {
+    "id": 163,
+    "date": "1/4/2024",
+    "showroom": "Skiles, Stanton and Schoen",
+    "field_income": "n/a",
+    "description": "Unspecified gangliosidosis",
+    "amount": "$7495.85",
+    "income_by": "Elston Janney"
+  },
+  {
+    "id": 164,
+    "date": "2/15/2023",
+    "showroom": "Bogisich, Swift and Wilderman",
+    "field_income": "Health Care",
+    "description": "Triplet preg w two or more monochorionic fetuses, first tri",
+    "amount": "$1954.42",
+    "income_by": "Sheffie Scarse"
+  },
+  {
+    "id": 165,
+    "date": "2/6/2023",
+    "showroom": "Hammes, Russel and Kuphal",
+    "field_income": "Consumer Services",
+    "description": "Other articular cartilage disorders, wrist",
+    "amount": "$3041.10",
+    "income_by": "Corrianne Dorrance"
+  },
+  {
+    "id": 166,
+    "date": "3/27/2023",
+    "showroom": "Friesen Inc",
+    "field_income": "n/a",
+    "description": "Stage 3 necrotizing enterocolitis in newborn",
+    "amount": "$7064.45",
+    "income_by": "Jarvis Baudts"
+  },
+  {
+    "id": 167,
+    "date": "12/24/2023",
+    "showroom": "Cormier, Kling and Torphy",
+    "field_income": "n/a",
+    "description": "Superficial foreign body of unsp parts of thorax, sequela",
+    "amount": "$3614.42",
+    "income_by": "Sharl Etchells"
+  },
+  {
+    "id": 168,
+    "date": "11/24/2023",
+    "showroom": "Lindgren Group",
+    "field_income": "n/a",
+    "description": "Open bite of right eyelid and periocular area, init encntr",
+    "amount": "$7449.54",
+    "income_by": "Cassondra Caught"
+  },
+  {
+    "id": 169,
+    "date": "3/17/2023",
+    "showroom": "Metz and Sons",
+    "field_income": "Consumer Durables",
+    "description": "Failed or difficult intubation for anesth during the puerp",
+    "amount": "$5622.56",
+    "income_by": "Rogers Grissett"
+  },
+  {
+    "id": 170,
+    "date": "2/21/2023",
+    "showroom": "Ledner-Welch",
+    "field_income": "Consumer Services",
+    "description": "Puncture wound with foreign body of toe with damage to nail",
+    "amount": "$1537.79",
+    "income_by": "Rosalie Stothart"
+  },
+  {
+    "id": 171,
+    "date": "11/4/2023",
+    "showroom": "Kunze and Sons",
+    "field_income": "Consumer Non-Durables",
+    "description": "Other medical devices associated with adverse incidents",
+    "amount": "$4068.92",
+    "income_by": "Lishe Trustrie"
+  },
+  {
+    "id": 172,
+    "date": "12/30/2023",
+    "showroom": "Altenwerth, Metz and Hane",
+    "field_income": "Consumer Services",
+    "description": "Cracked nipple associated with pregnancy, first trimester",
+    "amount": "$4990.78",
+    "income_by": "Humbert Blaker"
+  },
+  {
+    "id": 173,
+    "date": "10/15/2023",
+    "showroom": "Boehm-Armstrong",
+    "field_income": "Finance",
+    "description": "Nontraumatic ischemic infarction of muscle, right shoulder",
+    "amount": "$3835.47",
+    "income_by": "Ingrim Esson"
+  },
+  {
+    "id": 174,
+    "date": "7/29/2023",
+    "showroom": "Larson, Tillman and Marks",
+    "field_income": "Finance",
+    "description": "Unspecified subluxation of unspecified shoulder joint",
+    "amount": "$3924.42",
+    "income_by": "Leila Ferrario"
+  },
+  {
+    "id": 175,
+    "date": "1/29/2023",
+    "showroom": "Thiel Inc",
+    "field_income": "Consumer Services",
+    "description": "Idiopathic aseptic necrosis of left humerus",
+    "amount": "$7210.75",
+    "income_by": "Aleece Causer"
+  },
+  {
+    "id": 176,
+    "date": "7/18/2023",
+    "showroom": "Connelly and Sons",
+    "field_income": "Consumer Services",
+    "description": "Oth osteopor w crnt path fx, l humer, 7thD",
+    "amount": "$3030.02",
+    "income_by": "Alaric Fransinelli"
+  },
+  {
+    "id": 177,
+    "date": "12/21/2023",
+    "showroom": "Mraz, Reilly and Volkman",
+    "field_income": "Public Utilities",
+    "description": "Labor and delivery complicated by cord comp, unsp, fetus 4",
+    "amount": "$6550.26",
+    "income_by": "Inger Danilin"
+  },
+  {
+    "id": 178,
+    "date": "9/25/2023",
+    "showroom": "Prohaska and Sons",
+    "field_income": "Energy",
+    "description": "Disp fx of med phalanx of right less toe(s), init for opn fx",
+    "amount": "$5663.35",
+    "income_by": "Phelia Patching"
+  },
+  {
+    "id": 179,
+    "date": "10/28/2023",
+    "showroom": "Luettgen-Ritchie",
+    "field_income": "n/a",
+    "description": "Recession of chamber angle, bilateral",
+    "amount": "$596.44",
+    "income_by": "Merrick Grahlman"
+  },
+  {
+    "id": 180,
+    "date": "7/31/2023",
+    "showroom": "Ryan Group",
+    "field_income": "Consumer Services",
+    "description": "War op w dest arcrft d/t acc deton onbrd munit, milt, sqla",
+    "amount": "$9782.16",
+    "income_by": "Casie Dever"
+  },
+  {
+    "id": 181,
+    "date": "5/27/2023",
+    "showroom": "O'Conner, Auer and Koelpin",
+    "field_income": "Finance",
+    "description": "Traumatic rupture of symphysis pubis",
+    "amount": "$792.06",
+    "income_by": "Doroteya Hanscome"
+  },
+  {
+    "id": 182,
+    "date": "3/14/2023",
+    "showroom": "Wintheiser, Hills and Haag",
+    "field_income": "Health Care",
+    "description": "Poisn by electrolytic/caloric/wtr-bal agnt, assault, subs",
+    "amount": "$8702.28",
+    "income_by": "Hamlin Aleso"
+  },
+  {
+    "id": 183,
+    "date": "10/18/2023",
+    "showroom": "Bayer and Sons",
+    "field_income": "Technology",
+    "description": "Other fracture of occiput, unspecified side, 7thD",
+    "amount": "$8714.93",
+    "income_by": "Rowena Lottrington"
+  },
+  {
+    "id": 184,
+    "date": "8/23/2023",
+    "showroom": "Grant, Konopelski and Marquardt",
+    "field_income": "Consumer Non-Durables",
+    "description": "Legal intervention involving bayonet, bystander injured",
+    "amount": "$1313.79",
+    "income_by": "Kathryne Okie"
+  },
+  {
+    "id": 185,
+    "date": "12/20/2023",
+    "showroom": "Frami-O'Keefe",
+    "field_income": "Consumer Services",
+    "description": "Unspecified open wound of oral cavity, sequela",
+    "amount": "$1651.14",
+    "income_by": "Yasmin Onele"
+  },
+  {
+    "id": 186,
+    "date": "1/10/2024",
+    "showroom": "Kris-Nitzsche",
+    "field_income": "n/a",
+    "description": "Infection of amniotic sac and membranes, unspecified",
+    "amount": "$6899.94",
+    "income_by": "Nikolos Abbis"
+  },
+  {
+    "id": 187,
+    "date": "11/29/2023",
+    "showroom": "Franecki-Nitzsche",
+    "field_income": "Health Care",
+    "description": "Strain flexor musc/fasc/tend r idx fngr at wrs/hnd lv, init",
+    "amount": "$1979.50",
+    "income_by": "Ines Roxby"
+  },
+  {
+    "id": 188,
+    "date": "1/17/2024",
+    "showroom": "Schoen-Keebler",
+    "field_income": "Finance",
+    "description": "Stress fracture, unspecified site, sequela",
+    "amount": "$8713.77",
+    "income_by": "Pyotr Napoleon"
+  },
+  {
+    "id": 189,
+    "date": "5/10/2023",
+    "showroom": "Wolf, Kub and Roberts",
+    "field_income": "Consumer Services",
+    "description": "Immunoglobulin",
+    "amount": "$9630.54",
+    "income_by": "Lilla Ivanishchev"
+  },
+  {
+    "id": 190,
+    "date": "2/8/2023",
+    "showroom": "Abernathy and Sons",
+    "field_income": "n/a",
+    "description": "Disp fx of coronoid pro of unsp ulna, 7thM",
+    "amount": "$2029.73",
+    "income_by": "Obed Groucock"
+  },
+  {
+    "id": 191,
+    "date": "9/12/2023",
+    "showroom": "Dare-Hessel",
+    "field_income": "Public Utilities",
+    "description": "Spondylosis without myelopathy or radiculopathy, site unsp",
+    "amount": "$5533.52",
+    "income_by": "Laureen Wimpenny"
+  },
+  {
+    "id": 192,
+    "date": "10/3/2023",
+    "showroom": "McKenzie-Walsh",
+    "field_income": "Capital Goods",
+    "description": "Primary blast injury of oth part of small intestine, sequela",
+    "amount": "$7509.91",
+    "income_by": "Jacenta Althrop"
+  },
+  {
+    "id": 193,
+    "date": "5/21/2023",
+    "showroom": "Beatty Group",
+    "field_income": "Consumer Services",
+    "description": "Diabetes with prolif diabetic rtnop with comb detach, r eye",
+    "amount": "$9890.83",
+    "income_by": "Maggy Leads"
+  },
+  {
+    "id": 194,
+    "date": "7/9/2023",
+    "showroom": "Crooks-Kreiger",
+    "field_income": "n/a",
+    "description": "Corrosion of 2nd deg mul sites of head, face, and neck, subs",
+    "amount": "$8815.94",
+    "income_by": "Clevey Rigmand"
+  },
+  {
+    "id": 195,
+    "date": "3/14/2023",
+    "showroom": "Ruecker, Krajcik and Macejkovic",
+    "field_income": "Technology",
+    "description": "Intentional self-harm by crashing of aircraft, init encntr",
+    "amount": "$4006.22",
+    "income_by": "Pier Rapa"
+  },
+  {
+    "id": 196,
+    "date": "8/15/2023",
+    "showroom": "Pouros, Thompson and Reilly",
+    "field_income": "Basic Industries",
+    "description": "Failed trial of labor, unspecified",
+    "amount": "$6581.73",
+    "income_by": "Euphemia Ramsay"
+  },
+  {
+    "id": 197,
+    "date": "2/23/2023",
+    "showroom": "Littel Inc",
+    "field_income": "Technology",
+    "description": "Injury of other specified nerves of neck, sequela",
+    "amount": "$4482.85",
+    "income_by": "Glenden Oager"
+  },
+  {
+    "id": 198,
+    "date": "6/10/2023",
+    "showroom": "Hettinger-Fisher",
+    "field_income": "Consumer Services",
+    "description": "Sandhoff disease",
+    "amount": "$2452.13",
+    "income_by": "Harvey Curme"
+  },
+  {
+    "id": 199,
+    "date": "3/20/2023",
+    "showroom": "Hilll-Bednar",
+    "field_income": "Public Utilities",
+    "description": "Laceration w/o foreign body of left upper arm, init encntr",
+    "amount": "$5253.92",
+    "income_by": "Leslie Teideman"
+  },
+  {
+    "id": 200,
+    "date": "8/4/2023",
+    "showroom": "Emard-Rempel",
+    "field_income": "Health Care",
+    "description": "Oth nondisp fx of lower end l humer, subs for fx w nonunion",
+    "amount": "$8756.16",
+    "income_by": "Merna Siggens"
+  }
+]

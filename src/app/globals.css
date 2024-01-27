@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#F6F6F6];
+}
+
+.inputForm {
+  @apply flex flex-col gap-5;
+}
+
+.inputGroup {
+  position: relative;
+}
+
+.inputLabel {
+  @apply inline-block text-sm text-dark-600 font-medium absolute left-2 -top-3 bg-white px-1;
+}
+
+.inputLabel.required {
+  @apply pr-3 after:absolute after:right-[2px] after:top-[0] after:content-['*'] after:text-red-600 after:text-sm after:font-bold;
+}
+
+.inputField {
+  @apply w-full rounded text-dark-800  border border-gray-300 focus:!shadow-none focus:border-primary focus:ring-0;
+}
+
+.radioInput {
+  @apply hidden;
+}
+
+.radioInput:checked ~ .radioLabel::before {
+  @apply visible opacity-100;
+}
+
+.radioLabel {
+  @apply relative cursor-pointer pl-6 after:absolute after:left-0 after:top-1/2 after:-translate-y-1/2 after:h-4 after:w-4 after:rounded-full after:border after:border-gray-600 before:absolute before:content-["✔"] before:left-0 before:top-1/2 before:-translate-y-1/2 before:bg-primary before:invisible before:opacity-0 before:flex before:items-center before:justify-center before:h-4 before:w-4 before:rounded-full before:text-xs before:text-white;
+}
+
+.inputBtn {
+  @apply inline-block px-3 py-2 rounded bg-primary text-white duration-300 hover:bg-dark-purple cursor-pointer;
+}
+
+.inputBtn.cancel {
+  @apply bg-red-700 hover:bg-dark-purple;
+}
+
+table {
+  @apply w-full text-left text-sm text-gray-500;
+}
+
+thead {
+  @apply text-xs uppercase text-gray-700;
+}
+
+table thead th {
+  @apply bg-gray-50 dark:bg-gray-700 py-3 px-2;
+}
+
+tbody {
+  @apply divide-y divide-dashed;
+}
+
+tbody tr {
+  @apply hover:bg-gray-50  bg-white;
+}
+
+tbody tr td {
+  @apply py-4 !px-2;
+}
+
+.primaryBtn {
+  @apply inline-flex items-center gap-2 px-3 py-2 rounded bg-primary text-white duration-300 hover:bg-dark-purple cursor-pointer;
+}
+
+.sideBar::-webkit-scrollbar {
+  display: none;
+}
+
+@media (min-width: 1024px) {
+  .mainbody.active {
+    margin-left: 288px;
+  }
+}
+
+/* Rich Text Editor Default Design Upgrade */
+.quill .ql-toolbar {
+  @apply !border !border-gray-300 !rounded-t;
+}
+
+.quill .ql-container {
+  @apply !border-gray-300 !rounded-b;
+}
+
+.ql-snow.ql-toolbar button,
+.ql-snow .ql-toolbar button {
+  @apply !border !border-gray-300 !rounded-sm !mr-1 !bg-gray-200;
+}
+
+.ql-snow.ql-toolbar .ql-active,
+.ql-snow .ql-toolbar .ql-active,
+.ql-snow.ql-toolbar button:hover,
+.ql-snow .ql-toolbar button:hover {
+  @apply !bg-primary/20 !text-white;
+}
